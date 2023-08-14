@@ -1,1 +1,0 @@
-{{ partial "course.json.html" . }}
