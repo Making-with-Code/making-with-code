@@ -32,7 +32,7 @@ Courses, units, and labs are implemented in Hugo as [branch bundles](https://goh
 
 Here is an example file structure showing the various content types.
 
-```
+```shell
 content/
 ├── _index.md
 └── courses

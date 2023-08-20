@@ -15,7 +15,7 @@ Multiple configuration files are provided to build
 
 To build for a particular audience, use the `environment` flag:
 
-```
+```shell
 hugo --environment teachers
 ```
 
@@ -48,19 +48,19 @@ not on their own. Defaults to `["teaching", "notes"]`
 
 ### `Teacher` 
 The name which should be used when referring to the teacher. (See the 
-[teacher shortcode]({{< ref "dev/syntax.md#teacher" >}}).)
+[teacher shortcode](dev/syntax.md#teacher).)
 
 ### `LookAction`
 The symbol to indicate that the reader should read or watch something. (See the
-[look-action shortcode]({{< ref "dev/syntax.md#LookAction" >}}).)
+[look-action shortcode](dev/syntax.md#LookAction).)
 
 ### `CodeAction`
 The symbol to indicate that the reader should do something in code or in their Terminal. (See the
-[code-action shortcode]({{< ref "dev/syntax.md#CodeAction" >}}).)
+[code-action shortcode](dev/syntax.md#CodeAction).)
 
 ### `WriteAction`
 The symbol to indicate that the reader should write or draw something on paper or a Google Doc. (See the
-[write-action shortcode]({{< ref "dev/syntax.md#WriteAction" >}}).)
+[write-action shortcode](dev/syntax.md#WriteAction).)
 
 ### `BookSection`
 This param from the [Book theme](https://github.com/alex-shpak/hugo-book) is

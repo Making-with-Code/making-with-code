@@ -15,7 +15,7 @@ some of the existing content.
 
 Includes the full content of a module (from the same unit) in a lesson.
 
-```
+```shell
 {{</* include_module "lab_terminal_adventure" */>}}
 ```
 
@@ -23,7 +23,7 @@ Includes the full content of a module (from the same unit) in a lesson.
 
 Creates a link to a module (from the same unit) in a lesson.
 
-```
+```shell
 {{</* ref_module "lab_terminal_adventure" */>}}
 ```
 
@@ -31,7 +31,7 @@ Creates a link to a module (from the same unit) in a lesson.
 
 Creates a link to a practice description. May be used on any content page. 
 
-```
+```shell
 {{</* ref_practice "activity/help_queue" */>}}
 ```
 
@@ -41,7 +41,7 @@ Creates a link to a practice description. May be used on any content page.
 Use for notes and TODO items. Content within `devnote` is highlighted and only
 shown in the `dev` environment. 
 
-```
+```shell
 {{</* devnote */>}}
 This lesson went horribly. Need to revise.
 {{</* /devnote */>}}
@@ -53,7 +53,7 @@ Use to mark content which is unavoidably localized to a particular learning
 environment. At least later users can search for these and make appropriate
 updates. 
 
-```
+```shell
 {{</* local */>}}
 When you finish, turn this worksheet in to Moodle. 
 ```
@@ -61,7 +61,7 @@ When you finish, turn this worksheet in to Moodle.
 ### teacher
 Uses the teacher's name, which can be configured via a 
 [site param]({{< ref "dev/config#Teacher" >}}). 
-```
+```shell
 Even {{</* teacher */>}} sometimes makes mistakes. 
 ```
 Even {{< teacher >}} sometimes makes mistakes.
@@ -70,7 +70,7 @@ Even {{< teacher >}} sometimes makes mistakes.
 Inserts a symbol to indicate that the reader should read or watch something.
 Can be configured via a [site param]({{< ref "dev/config#LookAction" >}}).
 
-```
+```shell
 {{</* look-action */>}} Check out this great example of [abstraction](https://www.youtube.com/watch?v=oHg5SJYRHA0)!
 ```
 
@@ -80,12 +80,12 @@ Can be configured via a [site param]({{< ref "dev/config#LookAction" >}}).
 Inserts a symbol to indicate that the reader should do something in code or in their Terminal.
 Can be configured via a [site param]({{< ref "dev/config#CodeAction" >}}).
 
-```
+```shell
 {{</* code-action */>}} Run the following command in your Terminal:
 ```
 
 {{< code-action >}} Run the following command in your Terminal:
-```
+```shell
 $ telnet towel.blinkenlights.nl
 ```
 
@@ -93,7 +93,7 @@ $ telnet towel.blinkenlights.nl
 Inserts a symbol to indicate that the reader should write or draw something on paper or a Google Doc.
 Can be configured via a [site param]({{< ref "dev/config#WriteAction" >}})
 
-```
+```shell
 {{</* write-action */>}} Sketch what you think your computer would look like if it had the personality of Scooby Doo.
 ```
 
@@ -105,13 +105,13 @@ Adds a checkpoint where students should stop working on a lab and check in with
 a teacher. A self-closing tag will use a default message; otherwise a custom
 message may be provided. 
 
-```
+```shell
 {{</* checkpoint /*/>}}
 ```
 
 {{< checkpoint />}}
 
-```
+```shell
 {{</* checkpoint */>}}
 Take a break.
 {{</* /checkpoint */>}}

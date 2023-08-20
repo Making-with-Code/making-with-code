@@ -9,11 +9,11 @@ Title: Style guide
 Our goal is to produce curriculum which can be used anywhere, but every
 learning environment is specific. Therefore we will sometimes need to make
 assumptions about how things are set up. When local assumptions are unavoidable,
-please tag them with the [local shortcode]({{< ref "dev/syntax.md#local" >}}). 
+please tag them with the [local shortcode](dev/syntax.md#local). 
 
 {{< local >}}
 
-You can use the [`teacher` shortcode]({{< ref "dev/syntax.md#teacher" >}}) as a reference to the teacher's name (currently "{{< teacher >}}"). 
+You can use the [`teacher` shortcode](dev/syntax.md#teacher) as a reference to the teacher's name (currently "{{< teacher >}}"). 
 
 ## Text and action indicators
 Throughout the site, we use a variety of symbols to indicate ccertain actions

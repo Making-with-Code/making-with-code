@@ -6,7 +6,7 @@ weight: 1
 # Initial setup
 
 **Welcome to CS9! These instructions will help you get your computer set up for the class.**
-If you get stuck or are unsure what to do, send a screenshot of your error to Ms. Brown or Ms. Genzlinger.
+If you get stuck or are unsure what to do, you can [contact us.](contact.md)
 
 
 <!-- ## Github
