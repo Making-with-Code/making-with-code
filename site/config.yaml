@@ -1,4 +1,6 @@
-baseURL: https://amethyst.bencuan.me
+baseURL: https://cs.fablearn.org
+
+publishdir: "../build"
 
 # Book configuration
 disablePathToLower: true
@@ -30,11 +32,18 @@ menu:
 
 params:
 
-  name: Ben Cuan
+  name: Transformative Learning Technologies Lab
   title: Making with Code
 
   # OPTIONAL: custom favicon location
   # favicon: 
+  
+  # Shortcode params
+  LookAction: "👀"
+  CodeAction: "💻"
+  WriteAction: "✏️"
+  Teacher: "a member of the teaching team"
+
 
   # whether to display on-hover link preview cards
   enableLinkPreview: true
