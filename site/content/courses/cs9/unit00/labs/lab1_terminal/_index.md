@@ -1,9 +1,6 @@
 ---
-title: 01. Terminal Adventure
-type: lab
-slug: lab_terminal_adventure
-repo_url: https://github.com/the-isf-academy/lab-terminal-adventure
-init_action: clone
+title: "01. Terminal Adventure"
+
 # numberHeaders: true
 # draft: true
 

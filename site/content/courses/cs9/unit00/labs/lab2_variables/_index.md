@@ -1,9 +1,6 @@
 ---
 title: 02. Variables
-type: lab
-slug: lab_variables
-repo_url: https://github.com/the-isf-academy/lab-variables.git
-init_action: clone
+
 # draft: true
 
 ---

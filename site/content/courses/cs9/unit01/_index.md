@@ -1,11 +1,10 @@
 ---
 title: "Unit 01: Data Science"
-# bookCollapseSection: true
-type: unit
-slug: unit01
+bookCollapseSection: true
+# weight: 20
 draft: true
-headless: true
 ---
+
 
 ## Programming:
 Introduction to functional programming; abstraction. Types: int, float, bool. Introduction to data structures. Iterating over lists. Students will build on code reuse from unit 1, this time writing functions without side effects that can be composed. Curriculum: Based on introductory unit from BJC.

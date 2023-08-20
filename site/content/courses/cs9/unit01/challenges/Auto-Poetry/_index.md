@@ -43,11 +43,6 @@ Your chewing sounds annoy my hungry little mouse.
 
 ## Part 3: Auto-poetry
 
-{{< devnote >}}
-Do we want to bother with collaborative git on this lab? Students are only
-editing functions in one file; they could probably collaborate effectively
-without it. Depends when we want to cross that bridge.
-{{< /devnote >}}
 
 ### *Working with Git*
 

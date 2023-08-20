@@ -1,10 +1,11 @@
 ---
-title: CS9
-type: course
-slug: cs9
-#git_backend: github
-git_backend: github_org
+title: "CS9"
+weight: 1
+bookCollapseSection: true
+bookFlatSection: false
+
 ---
+
 
 # Welcome to CS 9
 

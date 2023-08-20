@@ -1,7 +1,6 @@
 ---
 Title: Project
-slug: drawing
-# draft: true
+draft: true
 ---
 
 # Animation Project

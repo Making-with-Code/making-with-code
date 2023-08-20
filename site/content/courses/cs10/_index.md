@@ -1,12 +1,12 @@
 ---
-title: CS10
-type: course
-slug: cs10
-#git_backend: github
-git_backend: github_org
+title: "CS10"
+weight: 2
+bookFlatSection: false
+bookCollapseSection: true
 ---
 
-## Curriculum
+
+# Curriculum
 
 {{< expand "Unit 0: Networking" >}}
 
@@ -23,4 +23,3 @@ clients. The unit will address human-computer interaction and design and prototy
 methodologies, including the use of logging and analytics for quantitative user
 research. 
 {{< /expand >}}
-

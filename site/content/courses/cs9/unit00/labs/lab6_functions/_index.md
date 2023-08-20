@@ -1,16 +1,7 @@
 ---
 title: 06. Functions I
-type: lab
-resources:
-- name: test_part_b() output
-  src: images/courses/cs9/unit00/00_functions_fig_b.png  
-- name: draw_forest(10) output
-  src: images/courses/cs9/unit00/00_functions_forest.png
 
-slug: lab_functions
-repo_url: https://github.com/the-isf-academy/lab_functions.git
-init_action: clone
-# draft: true
+draft: true
 ---
 # Functions Lab | Part I
 

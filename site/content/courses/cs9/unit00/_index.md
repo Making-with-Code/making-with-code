@@ -1,11 +1,9 @@
 ---
-title: "Unit 00: Drawing"
-bookCollapseSection: false
-draft: true
-type: unit
-slug: unit00_drawing
-draft: true
+title: "Unit 00: Drawing" 
+bookCollapseSection: true
+weight: 20
 ---
+
 
 #### Labs
 Each cycle will contain 3 labs with core content designed to last 80 minutes and extension

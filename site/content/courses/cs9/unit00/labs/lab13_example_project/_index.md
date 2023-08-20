@@ -1,6 +1,5 @@
 ---
 title: 12. Project Example
-type: lab
 draft: true
 ---
 

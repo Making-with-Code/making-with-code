@@ -1,10 +1,6 @@
 ---
 title: 04. Conditionals
-type: lab
-slug: lab_conditionals
-repo_url: https://github.com/the-isf-academy/lab_conditionals.git
-init_action: clone
-# draft: true
+draft: true
 
 ---
 

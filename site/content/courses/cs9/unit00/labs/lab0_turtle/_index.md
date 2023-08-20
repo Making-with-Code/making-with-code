@@ -1,22 +1,13 @@
 ---
-title: 00. Turtle
-slug: lab0_turtle
-type: lab
-resources:
-- name: GitHub
-  src: images/courses/cs9/unit00/00_git_github.png
-numberHeaders: true
-repo_url: https://github.com/cproctor/mwc-pedprog-unit00-lab00.git
-init_action: clone
-draft: false
+title: "00. Turtle"
+# weight: 20
 ---
-
 
 # Welcome to Making with Code! 
 
 We're glad you're here! yay 😄
 
-If you have not yet completed the [initial setup]({{< ref "../../initial_setup.md" >}}), 
+If you have not yet completed the [initial setup
 please do that before you start. 
 
 
@@ -30,9 +21,10 @@ need do something that involves writing code or using your Terminal (MacOS) or U
 
 The {{< look-action >}} symbol is another helpful symbol to indicate that you need to do
 something. This one means that there's something important for you to read or watch.
+
 {{< /aside >}}
 
----
+<!-- ---
 
 ## [0] Into the Terminal
 {{< look-action " Take a peek at your Desktop." >}} **You should see a new folder called `making_with_code`** created by the configuration
@@ -196,7 +188,7 @@ What happend? Did your computer draw what you expected?
 
 {{< code-action "End the program" >}} and close the turtle window by pressing `return`.
 
-{{< aside >}}
+
 Most files in your computer have a file type that tells your computer how to interpret them.
 The file type is determined by the letters after the dot in the file name.
 
@@ -206,7 +198,7 @@ file.
 
 <br>
 
-{{< /aside >}}
+
 
 {{< expand "Video Tutorial" >}}
 
@@ -219,29 +211,35 @@ file.
 
 
 ---
+ -->
 
 
+## [0] Your First Turtle Drawing
 
-## [2] Let's draw!
-Now that you've got the basics, try to make it more interesting.
+{{< code-action "Go to:" >}} [bit.ly/day1_cs9](https://trinket.io/python/196e77f175). **Experiment with turtle commands below.**
 
+{{< figure src="images/courses/cs9/unit00/00_turtle.png" width="75%">}}
 
-{{< figure src="https://freshgadgets.nl/wp-content/uploads/2014/12/inspirograph2.jpg" width="75%" title="Python Turtle Examples" >}}
-
-{{< code-action "Experiment with turtle commands below by editing your" >}} `first_program.py` file. 
 
 | Function |       Input      |   Example Use  | Explanation                                                                                                                      |
 |:--------:|:----------------:|:--------------:|----------------------------------------------------------------------------------------------------------------------------------|
-|  forward |      amount      |  forward(100)  | Moves the turtle forward by the specified amount                                                                                 |
-| backward |      amount      |  backward(100) | Moves the turtle backward by the specified amount                                                                                |
-|   right  | angle in degrees |    right(45)   | Turns the turtle clockwise by the specified angle                                                                                |
-|   left   | angle in degress |    left(45)    | Turns the turtle counter clockwise by the specified angle                                                                        |
-|   color  |     colorname    |  color("red")  | Sets the color for drawing. Use "red", "black", etc.  [Here's a list of all the colors](https://trinket.io/docs/colors).                                           |
-|   shape  |     shapename    | shape("arrow") | Should be "arrow", "classic", "turtle", or "circle"                                                                              |
-|   speed  | number from 0-10 |    speed(0)    | Determines the speed at which the turtle moves around the window. 1 for slowest, 3 for normal speed, 10 for fast, 0 for fastest. |
-|  pendown |       None       |    pendown()   | Puts down the turtle/pen so that it draws when it moves                                                                          |
-|   penup  |       None       |     penup()    | Picks up the turtle/pen so that it doesn’t draw when it moves                                                                    |
-| pensize  |       width      |   pensize(4)   | Sets the width of the pen for drawing                                                                                            |
+|  forward |      amount      |  `forward(100)`  | Moves the turtle forward by the specified amount                                                                                 |
+| backward |      amount      |  `backward(100)` | Moves the turtle backward by the specified amount                                                                                |
+|   right  | angle in degrees |    `right(45)`   | Turns the turtle clockwise by the specified angle                                                                                |
+|   left   | angle in degress |    `left(45)`    | Turns the turtle counter clockwise by the specified angle                                                                        |
+|   color  |     colorname    |  `color('red') ` | Sets the color for drawing. Use "red", "black", etc.  [Here's a list of all the colors](https://trinket.io/docs/colors).                                           |
+|   speed  | number from 0-10 |    `speed(0)`    | Determines the speed at which the turtle moves around the window. 1 for slowest, 3 for normal speed, 10 for fast, 0 for fastest. |
+|  pendown |       None       |    `pendown()`   | Puts down the turtle/pen so that it draws when it moves                                                                          |
+|   penup  |       None       |    ` penup()`    | Picks up the turtle/pen so that it doesn’t draw when it moves                                                                    |
+| pensize  |       width      |   `pensize(4)`   | Sets the width of the pen for drawing                                                                                            |
+| setheading  |       angle      |   `setheading(90)`   | Sets the pen to the 0th degree                                |
+| circle  |       size      |   `circle(10) `  | Sets the radius of the circle                                                                                            |
+| goto  |       x, y      |   `goto(90,0) `  | Moves turtle to a given coordinate                                                 |
+| begin_fill  |       None     |  `begin_fill()`  | Marks the start of the color fill       |
+| end_fill  |       None     |   `end_fill()`   | Marks the end of the color fill           |
+| fillcolor  |       colorname     |   `fillcolor('purple') `  | Sets the color of the fill          |
+
+{{< figure src="https://freshgadgets.nl/wp-content/uploads/2014/12/inspirograph2.jpg" width="75%">}}
 
 ---
 

@@ -1,10 +1,6 @@
 ---
 title: 10. Modules
-type: lab
-slug: lab_modules
-repo_url: https://github.com/the-isf-academy/lab_modules.git
-init_action: clone
-# draft: true
+draft: true
 ---
 
 # Modules Lab
@@ -295,7 +291,7 @@ python3
 
 Fond memories. You should have seen your responsive drawing run again. This is because when you import a module, all the code in that module runs.
 
-What about subdirectories that contain `.py` files? Python thinks of these as packages. Remember that treasure chest from the {{< ref_lab "lab1_terminal" >}}? It's buried a few layers deep in packages, but we can get it.
+What about subdirectories that contain `.py` files? Python thinks of these as packages. Remember that treasure chest from the It's buried a few layers deep in packages, but we can get it.
 
 
 {{< code-action "Trying getting the chest from the " >}} `lab_00_terminal_adventure`
