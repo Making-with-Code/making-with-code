@@ -1,11 +1,13 @@
-<blockquote class="book-hint warning">
-    <strong>✅ CHECKPOINT:</strong>
-    <br>
+<blockquote class="book-hint warning" style="padding-top: 5px; padding-bottom: 5px;">
+  <strong class="markdown-inner">✅ CHECKPOINT:</strong>
+  <br>
+<p class="markdown-inner">
 {{ if .Inner }}
-  {{ .Inner | markdownify }}
+{{ .Inner | markdownify }}
 {{ else }}
-  Stop here and make sure everyone in your group has finished 
-  this section before you go on. Check in with an 
-  instructor before you move on.
+Stop here and make sure everyone in your group has finished 
+this section before you go on. Check in with an 
+instructor before you move on.
 {{ end }}
+</p>
 </blockquote>
