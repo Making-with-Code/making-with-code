@@ -1,6 +1,6 @@
 ---
 title: 09. Version Control
-draft: true
+# draft: true
 ---
 # Version Control Lab
 
@@ -77,7 +77,7 @@ cd ~/desktop/making_with_code/cs9/unit00_drawing/
 
 
 ```shell
-git clone https://github.com/the-isf-academy/lab_modules_yourGithubUsername
+git clone https://github.com/Making-with-Code/lab_modules_yourGithubUsername
 ```
 
 If successful, should see something like this in your Terminal:

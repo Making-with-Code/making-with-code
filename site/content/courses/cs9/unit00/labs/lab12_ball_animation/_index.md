@@ -1,6 +1,6 @@
 ---
 title: 12. Ball Animation
-draft: true
+# draft: true
 ---
 
 # Ball Animation Lab
@@ -20,13 +20,13 @@ cd ~/desktop/making_with_code/cs9/unit00_drawing/
 
 {{< code-action "Clone your repo. This will copy it onto your computer." >}}  
 ```shell
-git clone https://github.com/the-isf-academy/lab_ball_animation_yourGithubUsername
+git clone https://github.com/Making-with-Code/lab_ball_animation_yourGithubUsername
 ```
 > Below you'll see that the `git clone` command has a `yourGithubUsername`. 
 >
 > **You need to replace this with your username**
 >
-> *e.g. `https://github.com/the-isf-academy/lab_ball_animation_emmaqbrown`*
+> *e.g. `https://github.com/Making-with-Code/lab_ball_animation_emmaqbrown`*
 
 
 {{< code-action "In the Terminal, type the following command to open the lab folder." >}}

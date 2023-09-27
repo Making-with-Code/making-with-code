@@ -1,6 +1,6 @@
 ---
 title: 11. Animation 101
-draft: true
+# draft: true
 ---
 
 # Animation I Lab
@@ -54,13 +54,13 @@ cd ~/desktop/making_with_code/cs9/unit00_drawing/
 
 {{< code-action "Clone your repo. This will copy it onto your computer." >}}  
 ```shell
-git clone https://github.com/the-isf-academy/lab_animation101_yourGithubUsername
+git clone https://github.com/Making-with-Code/lab_animation101_yourGithubUsername
 ```
 > Below you'll see that the `git clone` command has a `yourGithubUsername`. 
 >
 > **You need to replace this with your username**
 >
-> *e.g. `https://github.com/the-isf-academy/lab_animation101_emmaqbrown`*
+> *e.g. `https://github.com/Making-with-Code/lab_animation101_emmaqbrown`*
 
 
 

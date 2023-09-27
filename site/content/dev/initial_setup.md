@@ -135,7 +135,7 @@ bgenzlinger~/Documents$
 ## Installing Poetry
 *Poetry makes sure your coding environment is set up to work for all your coding projects*
 
-{{< code-action "Run the below command to install Poetry." >}} 
+💻 **Run the below command to install Poetry**
 ```shell
 curl -sSL https://install.python-poetry.org | python3 -
 
@@ -210,7 +210,7 @@ Whenever this website says to use Terminal, you should use Windows Powershell. T
 
 ## Testing your Setup
 
-💻 **Run each of the following checks one at a time to check your setup.**
+💻 **Run each of the following checks one at a time to check your setup.** You should see a version number appear after each command.
 
 
 ```shell
@@ -232,9 +232,30 @@ brew -v
 ```shell
 poetry --version
 ```
-
+<!-- 
 📸 **Take a screenshot** of the result and send it to your teachers, *bgenzlinger@isf.edu.hk* and *eqbrown@isf.edu.hk*, regardless of whether it worked or not. 
 
 A successful setup will look something like this:
 
-{{< figure src="images/courses/cs9/unit00/-000_initialsetup8.png" width="100%" alt-text="mwc setup" >}}
+{{< figure src="images/courses/cs9/unit00/-000_initialsetup8.png" width="100%" alt-text="mwc setup" >}} -->
+
+---
+
+## Directories
+
+Our labs assume students have the following directory setup:
+
+```shell
+Desktop 
+└── making_with_code
+    ├── cs9
+        └── unit00
+        └── unit01
+        └── unit02
+    └── cs10
+        └── unit00
+            └── unit01
+            └── unit02
+  ```
+
+You can of course change this, you will just need to change the path in the set up instructions for each lab. 

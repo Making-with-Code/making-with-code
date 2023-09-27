@@ -1,6 +1,6 @@
 ---
 title: 10. Modules
-draft: true
+# draft: true
 ---
 
 # Modules Lab
@@ -11,10 +11,15 @@ In this lab, we will learn how to organize our functions into modules. Modules a
 
 ## [0] Setup
 
-{{< code-action "Go int your" >}} `lab_modules` **folder in your** `unit_00` **directory:**
+{{< code-action "Start by going into the unit folder." >}}
+```shell
+cd ~/desktop/making_with_code/unit00_drawing/
+```
+
+{{< code-action "Go into the" >}} `lab_modules` 
 
 ```shell
-cd ~/Desktop/making_with_code/cs9/unit00_drawing/lab_modules_YOURGITHUBUSERNAME
+cd lab_modules_YOURGITHUBUSERNAME
 ```
 > Don't forget to change "YOURGITHUBUSERNAME" to your actual Github username.
 

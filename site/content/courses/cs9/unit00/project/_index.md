@@ -1,6 +1,6 @@
 ---
 Title: Project
-draft: true
+# draft: true
 ---
 
 # Animation Project
@@ -28,7 +28,7 @@ Here are a few examples from last year to get you started. More can be found at 
 This is a big project, and you will get lost or frustrated if you don't do some planning up front. You are required to fill out the planning section of the Project Booklet and get it approved by a teacher. 
 
 
-{{< write-action "Fill out the Project Overview and Project Design sections of the Booket." >}}
+✏️ **Fill out the Project Overview and Project Design sections of the Booket.**
 
 **👀 Once you have completed your planning document, meet with a teacher to talk through your project.**
 
@@ -132,7 +132,7 @@ The project is scored out of 7. It will be calculated by adding the score from e
 
 ## [3] Deliverables
 
-{{< deliverables  "Projects are due on Friday, 25 Novemeber." >}}
+{{< deliverables  >}}
 
 
 - `Unit 00 Animation Project: Planning Document` in your Google Drive folder

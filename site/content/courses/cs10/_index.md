@@ -1,6 +1,6 @@
 ---
 title: "CS10"
-weight: 2
+weight: 20
 bookFlatSection: false
 bookCollapseSection: true
 ---

@@ -1,6 +1,6 @@
 ---
-title: 12. Project Example
-draft: true
+title: 13. Project Example
+# draft: true
 ---
 
 # Animation I Lab
@@ -12,11 +12,16 @@ In this lab we are going to explorea an adapted version of a previous student's 
 
 ## [1] Set Up
 
-
-{{< code-action "Using git, download the repository with the mystery examples into your" >}} `lab_08_decomposition` folder.
+{{< code-action "Go to your" >}} `cs9/unit00_drawing` **folder.**
 
 ```shell
-git clone https://github.com/the-isf-academy/lab-animationI.git
+cd ~/desktop/making_with_code/cs9/unit00_drawing/
+```
+
+{{< code-action "Using git, download the repository with the mystery examples into your" >}}  `cs9`.
+
+```shell
+git clone https://github.com/Making-with-Code/project_animation_example
 ```
 
 poetry shell
