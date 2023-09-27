@@ -1,5 +1,5 @@
 ---
-Title: "[Resources]"
+Title: "Resources"
 draft: true
 ---
 

@@ -206,7 +206,7 @@ atom fancy_drawing.py
 
 {{< deliverables  >}}
 
-**Once you've successfully completed the sequence be sure to fill out [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSd3P-0622hRFXybDHS8CDagep3YB7K1_q-tmUZ11VMoO-B0Tg/viewform?usp=sf_link)**.
+**Once you've successfully completed the sequence be sure to fill out [this Google form]('/')**.
 
 
 {{< code-action "Push your work to Github:" >}}

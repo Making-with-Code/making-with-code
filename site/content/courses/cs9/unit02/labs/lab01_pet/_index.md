@@ -28,7 +28,7 @@ cd ~/desktop/making_with_code/cs9/unit_02
 
 {{< code-action "Then, clone your starter code." >}} Be sure to change `YOUR-GITHUB-USERNAME` to your actual Github username.
 ```shell
-git clone https://github.com/the-isf-academy/lab_pet_yourgithubusername
+git clone https://github.com/Making-with-Code/lab_pet_yourgithubusername
 cd lab_pet_yourgithubusername
 ```
 

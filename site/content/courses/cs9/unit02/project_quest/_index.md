@@ -1,6 +1,7 @@
 ---
 Title: Project
 draft: true
+weight: 30
 ---
 
 # Unit 02 Games Project

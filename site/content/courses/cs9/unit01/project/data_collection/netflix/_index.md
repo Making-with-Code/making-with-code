@@ -1,5 +1,5 @@
 ---
-title: [Netflix Data]
+title: Netflix Data
 type: checkup
 ---
 # Netflix 

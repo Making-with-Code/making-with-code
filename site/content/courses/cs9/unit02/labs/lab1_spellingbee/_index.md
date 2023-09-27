@@ -34,7 +34,7 @@ cd ~/desktop/making_with_code/cs9/unit02_games
 
 {{< code-action "Clone your starter code." >}} Be sure to change `YOUR-GITHUB-USERNAME` to your actual Github username.
 ```shell
-git clone https://github.com/the-isf-academy/lab_spellingbee_yourgithubusername
+git clone https://github.com/Making-with-Code/lab_spellingbee_yourgithubusername
 ```
 
 
@@ -116,7 +116,7 @@ The `View` is unique in that it only has methods and has no properties. It's met
 
 {{< deliverables  >}}
 
-**Once you've successfully completed the game be sure to fill out [this Google form](https://docs.google.com/forms/d/e/1FAIpQLScul5QUTuRN2MQUlX2rwvpCnxARWolbrP3R045kwjUsNXuN3g/viewform?usp=sf_link)**.
+**Once you've successfully completed the game be sure to fill out [this Google form]('/')**.
 
 
 {{< code-action "Push your work to Github:" >}}

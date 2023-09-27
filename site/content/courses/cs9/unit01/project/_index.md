@@ -1,6 +1,8 @@
 ---
 Title: Project
 draft: false
+bookCollapseSection: true
+
 ---
 
 # Unit 01 Data Science Project
@@ -14,25 +16,14 @@ To be successful in this project, you should **find a topic that is both interes
 
 ---
 
-## [1] Timeline
-
-📅 **The project begins on 13 February and you will have 4 in-class blocks to complete this project.** 
-
-| section | due date |
-|---------|----------|
-| cs9.1   | 24 Feb   |
-| cs9.2   | 27 Feb   |
-
----
-
-## [2] Starter Code
+## [1] Starter Code
 
 {{< code-action >}} **You can find your project in your Google Drive:** `project_data_science.ipynb`
 
 
 ---
 
-## [3] Assessment
+## [2] Assessment
 
 ✅ **The assessment is broken down into five criteria:**
 - Iterative Development 
@@ -66,7 +57,7 @@ The project is scored out of 7.
 
 --- 
 
-## [4] Success Claims
+## [3] Success Claims
 
 💯 **Successful computer scientists should be able to make the following claims:**
 - Iterative Development 

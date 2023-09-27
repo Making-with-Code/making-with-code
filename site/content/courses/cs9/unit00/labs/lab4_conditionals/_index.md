@@ -280,7 +280,7 @@ python pattern.py
 
 {{< deliverables  >}}
 
-**Once you've successfully completed the pattern be sure to fill out [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSeAy0HmtzBOoY5al0LzKYOE1y7CLkshiRUjxxFnSgAvwyJZaQ/viewform?usp=sf_link)**.
+**Once you've successfully completed the pattern be sure to fill out [this Google form]('/')**.
 
 ✏️  **Add a screenshot of a code snippet to your `CS9 Lab Code Log` in your Google Drive.** Add a comment either asking a question about your code OR describing a piece of code you are proud of. 
 

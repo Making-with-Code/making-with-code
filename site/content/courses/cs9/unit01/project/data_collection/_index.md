@@ -1,7 +1,8 @@
 ---
-Title: "[Data Collection]"
+Title: "Data Collection"
+bookCollapseSection: true
 
-draft: true
+# draft: true
 
 ---
 

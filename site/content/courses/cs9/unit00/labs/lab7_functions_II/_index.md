@@ -111,7 +111,7 @@ atom grid.py
 
 {{< deliverables  >}}
 
-**If you did not fill out the Google form in "Function I", be sure to fill out [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSdEzSmliyxzEcLmk7qHxfeCui9zp0ReDif4pJUzGoDob7sTyw/viewform?usp=sf_link)**.
+**If you did not fill out the Google form in "Function I", be sure to fill out [this Google form]('/')**.
 
 
 {{< /deliverables >}}

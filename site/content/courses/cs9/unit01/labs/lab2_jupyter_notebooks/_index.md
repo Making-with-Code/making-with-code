@@ -1,7 +1,7 @@
 ---
 title: 2. Jupyter Notebook
 type: checkup
-# draft: True
+draft: True
 ---
 # Jupyter Notebooks
 

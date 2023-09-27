@@ -1,5 +1,6 @@
 ---
 Title: Project Arcade
+weight: 30
 # draft: true
 ---
 
@@ -45,7 +46,7 @@ cd ~/desktop/making_with_code/cs9/unit02_games
 
 {{< code-action "Clone your starter code." >}} Be sure to change `yourgroupname` to your actual Github username.
 ```shell
-git clone https://github.com/the-isf-academy/project_games_arcade_yourgroupname
+git clone https://github.com/Making-with-Code/project_games_arcade_yourgroupname
 ```
 
 {{< code-action "Enter the Poetry shell and install the requirements:" >}}
@@ -75,14 +76,6 @@ This repo includes the following files:
         - `/sprites`
     - `README.md` - a brief description of your game
 
-
----
-
-**🗓️ Timeline**
-
-**You have 4 in class days to complete this project.**
-
-🎉 The last day of class will be a showcase of all of your amazing games! 
 
 ---
 

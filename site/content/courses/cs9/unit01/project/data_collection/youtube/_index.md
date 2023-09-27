@@ -1,5 +1,5 @@
 ---
-title: [YouTube Data]
+title: YouTube Data
 type: checkup
 ---
 # YouTube 

@@ -25,22 +25,6 @@ In this lab, you will create a typing game! You will be re-introduced to the Ter
 
 ## [0] Setup
 
-{{< code-action "Download Visual Studio Code:" >}} [HERE](https://code.visualstudio.com/). Atom is no longer being developed, so we have decided to switch to VScode, one of the most popular code editors. 
-<!-- 
-{{< code-action "Check you have" >}} `mwc` installed. 
-```shell
-mwc version
-``` 
-{{< code-action "If you do not see a version number, install it:" >}} 
-```shell
-pip3 install making-with-code-cli
-```
-
-{{< code-action "Now, update it and install the lab" >}} As a reminder, we will run this command at the start of each lab.
-```shell
-mwc update
-``` -->
-
 {{< code-action "In the Terminal, open your" >}} `making_with_code/cs9` **folder:**
 ```shell
 cd ~/desktop/making_with_code/cs9/
@@ -54,11 +38,11 @@ mkdir unit02_games
 {{< code-action "Clone your repository with starter code for the lab:" >}}
 > replace the `yourGithubUsername` with your Github username.
 >
-> *example: `git clone https://github.com/the-isf-academy/project_animation_emmaqbrown.git`*
+> *example: `git clone https://github.com/Making-with-Code//project_animation_emmaqbrown.git`*
 
 
 ```shell
-git clone https://github.com/the-isf-academy/lab_typing_game_yourGithubUsername
+git clone https://github.com/Making-with-Code//lab_typing_game_yourGithubUsername
 ```
 
 {{< code-action >}} `cd` **into the lab**
@@ -181,7 +165,7 @@ Accuracy: 92.2%
 
 {{< deliverables  >}}
 
-**Once you've successfully completed the game be sure to fill out [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSdA6DntQ82dDg_WnYMzPcMO9kzPBoFP-G0hb9aydBIgNiL27Q/viewform?usp=sf_link)**.
+**Once you've successfully completed the game be sure to fill out [this Google form]('/')**.
 
 
 {{< code-action "Push your work to Github:" >}}

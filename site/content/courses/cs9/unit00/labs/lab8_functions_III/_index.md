@@ -190,7 +190,7 @@ For an additional challenge:
 
 {{< deliverables  >}}
 
-☑️ **At then end of class, be sure to fill out [this Google form](https://docs.google.com/forms/d/e/1FAIpQLScD5qa_C7Fsayd90mN3s1F_RAIRlA88aZKcAJiAhLH5UNi7fw/viewform?usp=sf_link)**.
+☑️ **At then end of class, be sure to fill out [this Google form]('/')**.
 
 
 ✏️  **Add a screenshot of a code snippet to your `CS9 Lab Code Log` in your Google Drive.** Add a comment with a key takeaway, a question about your code, or describing a piece of code you are proud of. 

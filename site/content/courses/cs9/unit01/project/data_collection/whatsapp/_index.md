@@ -1,5 +1,5 @@
 ---
-title: [Whatsapp Data]
+title: Whatsapp Data
 type: checkup
 ---
 # Whatsapp 

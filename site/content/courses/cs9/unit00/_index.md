@@ -1,13 +1,12 @@
 ---
 title: "Unit 00: Drawing" 
-bookCollapseSection: true
-weight: 20
-# bookFlatSection: tu
 bookFlatSection: false
+bookCollapseSection: true
 
 ---
 
 
+<!-- 
 #### Labs
 Each cycle will contain 3 labs with core content designed to last 80 minutes and extension
 content. Class sessions in each cycle will be chunked into an 80 minute session and two 135
@@ -24,4 +23,4 @@ code tracing, error literacy, troubleshooting, and other debugging skills.
 Create some personally-meaningful drawing. First, a draft will be due with a sketch of the
 final project and some planning, including planned subroutines and pseudocode. Each drawing
 project should highlight the unique opportunities of computational art by utilizing repeated
-patterns, abstract designs, customization, and/or user/viewer interaction.
+patterns, abstract designs, customization, and/or user/viewer interaction. -->

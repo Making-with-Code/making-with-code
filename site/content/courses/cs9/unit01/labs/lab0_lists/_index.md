@@ -1,7 +1,7 @@
 ---
 title: 0. Lists
 type: lab
-# draft: True
+draft: True
 
 ---
 

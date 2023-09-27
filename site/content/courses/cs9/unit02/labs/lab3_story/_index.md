@@ -27,7 +27,7 @@ cd ~/desktop/making_with_code/cs9/unit02_games
 
 {{< code-action "Clone your starter code." >}} Be sure to change `yourgithubusername` to your actual Github username.
 ```shell
-git clone https://github.com/the-isf-academy/lab_story_example_yourgithubusername
+git clone https://github.com/Making-with-Code/lab_story_example_yourgithubusername
 ```
 
 
@@ -249,7 +249,7 @@ Come up with your own options to continue the story! We'll share out at the end 
 
 {{< deliverables  >}}
 
-**Once you've successfully completed the game be sure to fill out [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSdt-1ot7m6E6rP01LmJTt9uvIrdOnLvfGw_Zhl5RFdkPN3XYg/viewform?usp=sf_link)**.
+**Once you've successfully completed the game be sure to fill out [this Google form]('/')**.
 
 
 {{< code-action "Push your work to Github:" >}}

@@ -9,14 +9,14 @@ In this challenge, we're going to think about language with a functional program
 functions like `add` and `subtract`, which combine numbers, we will use
 functions like `noun_phrase`, which combines words into parts of speech. 
 
-![Functional view of syntax](fig4.png)
+<!-- ![Functional view of syntax](fig4.png) -->
 
 Here's an example of how we can use these functions to build a sentence. 
 These functions are very strict about what kinds of inputs they accept, because
 we want to make sure we don't create ill-formed sentences like "The my mouse
 hungry milk milk milk."
 
-![Building sentences](fig5.png)
+<!-- ![Building sentences](fig5.png) -->
 
 {{< expand "A little bit of English grammar" >}}
 The diagram above shows that the function `noun_phrase` combines an adjective

@@ -1,5 +1,6 @@
 ---
-Title: Project
+Title: Project Story
+weight: 20
 # draft: true
 ---
 
@@ -62,7 +63,7 @@ cd ~/desktop/making_with_code/cs9/unit02_games
 
 {{< code-action "Clone your starter code." >}} Be sure to change `yourgithubusername` to your actual Github username.
 ```shell
-git clone https://github.com/the-isf-academy/project_game_story_yourgithubusername
+git clone https://github.com/Making-with-Code/project_game_story_yourgithubusername
 ```
 
 {{< code-action "Enter the Poetry shell and install the requirements:" >}}
@@ -145,15 +146,6 @@ The project is scored out of 15.
     - `node.py`
     - `README.md` - a brief description of your game
 
-
----
-
-**🗓️ Timeline**
-
-**You have 5 in class days to complete this project.**
-
-- begins on Monday, 24 April 
-- due on Monday, 08 May 
 
 ---
 

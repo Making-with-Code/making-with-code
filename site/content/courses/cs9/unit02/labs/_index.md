@@ -1,5 +1,5 @@
 ---
-# headless: true
-type: modules
-#draft: true
+bookFlatSection: false
+bookCollapseSection: true
+weight: 10
 ---

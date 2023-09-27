@@ -1,9 +1,10 @@
 ---
 title: "Challenges"
-# bookCollapseSection: true
+bookCollapseSection: true
 type: unit
-draft: true
+# draft: true
 headless: true
+weight: 20
 ---
 
 #### Challenges

@@ -110,7 +110,7 @@ When you want to exit the shell, you can type `exit` or `^D`
 
 {{< deliverables "For this lab, you should:" >}}
 
-**Once you've successfully completed the sequence be sure to fill out [this Google form](https://docs.google.com/forms/d/e/1FAIpQLScz0x6-s3GRD9P7oZlcqq24XifGDTw9BQ_j8t8TIqqRYw0naw/viewform?usp=sf_link)**.
+**Once you've successfully completed the sequence be sure to fill out [this Google form]('/')**.
 
 
 {{< code-action "Push your work to Github:" >}}

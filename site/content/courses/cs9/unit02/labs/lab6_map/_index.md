@@ -28,7 +28,7 @@ cd ~/desktop/making_with_code/cs9/unit02_games
 
 {{< code-action "Clone your starter code." >}} Be sure to change `yourgithubusername` to your actual Github username.
 ```shell
-git clone https://github.com/the-isf-academy/lab_map_example_yourgithubusername
+git clone https://github.com/Making-with-Code/lab_map_example_yourgithubusername
 ```
 
 
@@ -152,7 +152,7 @@ python game_platformer.py
 
 {{< deliverables  >}}
 
-**Once you've explored both games, fill out [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSd5uRd-Ehmvu4x6LemzjVBFEIGiYmluTMxSPLDK6AruqbXMhg/viewform?usp=sf_link)**.
+**Once you've explored both games, fill out [this Google form]('/')**.
 
 - Which game are you more interested in exploring?
 - Are you interested in working in a group? If so, who would you like to work with?

@@ -30,7 +30,7 @@ cd ~/desktop/making_with_code/cs9/unit02_games
 
 {{< code-action "Clone the repo." >}} Do NOT add your username to the end of the url.
 ```shell
-git clone https://github.com/the-isf-academy/lab_games_sampler
+git clone https://github.com/Making-with-Code/lab_games_sampler
 ```
 
 
@@ -92,7 +92,7 @@ python game_bullets.py
 
 {{< deliverables  >}}
 
-**Once you've explored both games, fill out [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSd5uRd-Ehmvu4x6LemzjVBFEIGiYmluTMxSPLDK6AruqbXMhg/viewform?usp=sf_link)**.
+**Once you've explored both games, fill out [this Google form]('/')**.
 
 - Which game are you more interested in exploring?
 - Who would you like to work with in a group?

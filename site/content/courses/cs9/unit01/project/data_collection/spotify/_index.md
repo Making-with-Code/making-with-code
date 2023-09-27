@@ -1,5 +1,5 @@
 ---
-title: [Spotify Data]
+title: Spotify Data
 type: checkup
 ---
 # Spotify
