@@ -17,24 +17,4 @@ Our site is built using [Hugo](https://gohugo.io/) and can be easily hosted usin
 *Making with Code* was developed in a partnership with The Indepdent Schools Foundation Academy (ISF). You can see their site implementation at [the-isf-academy.github.io/making-with-code](https://the-isf-academy.github.io/making-with-code/).
 
 
-### Lab Set Up 
-
-# Replace the URL 
-
-Replace the form instructions 
-
-### Lab Log
-
-### practices
-
-git commits 
-feedback on gitcommits
-feedback on lab logs
-
-### Do Nows
-
-### Worksheets 
-
-
-repo view
-courseware 
+MwC has also been implemented in a teacher preparation program through SUNY Buffalo. You can see their site implementation at [https://makingwithcode.org/](https://makingwithcode.org/).

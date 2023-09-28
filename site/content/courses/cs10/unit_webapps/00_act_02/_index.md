@@ -123,13 +123,5 @@ The project is scored out of 7.
 - A Miro Board with your Web App design specifications
 - A Google Slides presentation 
 
----
-
-**🗓️ Timeline**
-
-**You have 4 in class days to complete the Miro Planning Board and prepare for the Pitch.**
-
-- begins on Wednesday, 12 April  
-- due on Thursday, 20 April
 
 {{< /deliverables >}}

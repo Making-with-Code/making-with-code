@@ -1,5 +1,20 @@
 ---
-Title: ADTs Project
+title: "Project: Abstrarct Data Types"
+# bookCollapseSection: true
+type: unit
+# draft: true
+weight: 40
+---
+
+This mini-unit will explore the implementation of data structures as objects.
+Over the course of the unit, students will develop a queue structure to
+compete with the Python implentations of the a List and Deque.
+
+Along the way, students will review object-oriented programming as they
+implement their queues as Python objects. Additionally, students
+will learn about time- and memory-based efficiency as they attempt to
+design queue interfaces which are fast and efficient.
+
 ---
 
 # Unit 01 ADTs Project

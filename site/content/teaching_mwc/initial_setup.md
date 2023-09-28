@@ -5,7 +5,7 @@ weight: 1
 
 # Initial setup
 
-**Welcome to MWC! These instructions will help you get your computer set up for the class.**
+**These instructions will help you get your computer set up for the class.**
 If you get stuck or are unsure what to do, you can [contact us.](contact.md)
 
 
@@ -259,3 +259,9 @@ Desktop
   ```
 
 You can of course change this, you will just need to change the path in the set up instructions for each lab. 
+
+---
+
+## General Tips
+
+Customize visual look fo the Terminal and VSCode. Encourage students to help themselves read it as much as possible. 

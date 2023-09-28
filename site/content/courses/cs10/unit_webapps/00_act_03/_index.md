@@ -20,7 +20,7 @@ In this lab, you will be working in groups, storing your shared code in your gro
 
 ```shell
 cd ~/desktop/making_with_code/cs10/unit_web_apps/
-git clone https://github.com/the-isf-academy/project_web_apps_group#.git
+git clone https://github.com/Making-with-Code/project_web_apps_group#.git
 cd project_web_apps_group#
 ```
 > replace `#` with your group number
@@ -102,14 +102,6 @@ The project is scored out of 7.
 - Your README.md with your works cited
 - Your Miro board should be up to date with your design
 
----
-
-**🗓️ Timeline**
-
-**You have 4 in class days to complete the Miro Planning Board and prepare for the Pitch.**
-
-- begins on Wednesday, 12 April  
-- due on Thursday, 20 April
 
 {{< /deliverables >}}
 

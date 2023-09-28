@@ -1,13 +1,12 @@
 ---
-title: "Unit Web Design"
+title: "Project"
 type: unit
 slug: unit02_web_design
 weight: 20
-bookCollapseSection: true
+# bookCollapseSection: true
 
 # draft: true
 ---
-
 
 
 ## [0] Project Overview
@@ -133,15 +132,6 @@ The project is scored out of 7.
 
 - A `Web Design Project | Design Specification Document` - a Google Doc
 - A `yourgithubusername.github.io` repository 
-
----
-
-**🗓️ Timeline**
-
-**You have 4 in class days to complete this project.**
-
-- begins on Wednesday, 22 February 
-- due on Thursday, 02 March
 
 ---
 

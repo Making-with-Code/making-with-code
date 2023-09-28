@@ -1,17 +1,7 @@
 ---
-title: "Challenge"
-# bookCollapseSection: true
-type: unit
+title: "Lab: Auto-Poetry"
+type: checkup
 # draft: true
-headless: true
-weight: 20
----
-
-# Challenge: Auto Poetry
-Challenges will provide extra goals for students who have already finished
-the assigned work and the extensions.
-
-
 ---
 
 ## Functional Programming with Grammar
