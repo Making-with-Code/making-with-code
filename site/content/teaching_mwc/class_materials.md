@@ -11,7 +11,7 @@ weight: 20
 
 We have developed a plethora of accomanying resources to teach the MwC curriculum. 
 
-Each unit has a folder with slides, starter activities, worksheets, and more!
+📁 **Each unit has a folder with slides, starter activities, worksheets, and more!**
 
 
 - **CS9**
@@ -25,6 +25,8 @@ Each unit has a folder with slides, starter activities, worksheets, and more!
 - **Additional Modules**
     - [Cryptopgraphy](https://drive.google.com/drive/folders/1YZMnqE4Tuf69Epte4pvO2cK6SooFghN_?usp=drive_link)
     - [Abstract Data Types](https://docs.google.com/presentation/d/1frnORS6qyiPH3OsZvKyz1q9dXM4o9VP0yFBCaxqbHkI/edit?usp=drive_link)
+
+Explore the [Teaching Practices](practices) page to learn more about our pedgagogy and specially our classroom and behavior management.
 
 ---
 
@@ -45,4 +47,8 @@ Students typically complete each Do Now on a small white board at their desk to 
 ## Self-assessments 
 
 ## Booklets
+
+## Ethics in Computing 
+
+Throughout most units, we aim to incorporate discussions around ethics in computing. 
 

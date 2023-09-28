@@ -7,8 +7,31 @@ weight: 40
 
 ---
 
-courseawre
+# Courseware
+
+Throughout the development of *MwC* we have developed proprietary to fit the needs of the currciulum.
+
+---
+
+## Student Repos
+
+template repos 
+
+repoview
+
+---
+
+## Data Scraping 
+
+---
+
+## Banjo
 
 
-repo view
+---
+
+## Quest
+
+## 
+
 courseware 

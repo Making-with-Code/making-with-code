@@ -10,16 +10,3 @@ title: Homepage
 *Making with Code* is a set of free, open-source computer science courses and
 related curriculum.
 
-### About us
-
-*Making with Code* is a project of the Transformative Learning Technologies Lab (TLTL) in collaboration with the Independent Schools Foundation Academy.
-
-Emma Brown  
-Paulo Blikstein  
-Will Chau  
-Britte Genzlinger   
-Jenny Han  
-Krates Ng  
-Jonathan Pang  
-Chris Proctor   
-Jacob Wolf 

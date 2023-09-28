@@ -8,13 +8,21 @@ bookCollapseSection: true
 
 # Teaching Making with Code
 
-Developing, implementing, and customing *Making with Code* is easy to do!
+Our goal is for teaching *MwC* and implementing in your school to be a seamless setup process. 
 
-All code is publicly available at [github.com/Making-with-Code](https://github.com/Making-with-Code).
+## Repositories
 
-Our site is built using [Hugo](https://gohugo.io/) and can be easily hosted using Github pages. The site repoistory can be found at [github.com/Making-with-Code/making-with-code](https://github.com/Making-with-Code/making-with-code). 
+💻 **All code is publicly available at [github.com/Making-with-Code](https://github.com/Making-with-Code).** We reccomend creating a new Github organization and forking the repositories as needed. 
 
-*Making with Code* was developed in a partnership with The Indepdent Schools Foundation Academy (ISF). You can see their site implementation at [the-isf-academy.github.io/making-with-code](https://the-isf-academy.github.io/making-with-code/).
+If students are able to use Git and have Github accounts, you can create personalized repositories for each students under the organization. You can learn more about this process in [courseware](courseware) 
 
+## Website 
 
-MwC has also been implemented in a teacher preparation program through SUNY Buffalo. You can see their site implementation at [https://makingwithcode.org/](https://makingwithcode.org/).
+This site is built using [Hugo](https://gohugo.io/) and can be hosted for no cost using Github pages. 
+
+💻 **The site repoistory can be found at [github.com/Making-with-Code/making-with-code](https://github.com/Making-with-Code/making-with-code).** We encourage teachers to fork the site and customize to their community. 
+
+There are currently two impplementation of thsi curriclum:
+- [High School Computer Science in Hong Kong](https://the-isf-academy.github.io/making-with-code/).
+- [Teacher Preparation Program - SUNY Buffalo](https://makingwithcode.org/)
+
