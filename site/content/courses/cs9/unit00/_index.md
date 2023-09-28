@@ -1,10 +1,27 @@
 ---
-title: "Unit 00: Drawing" 
+title: "Unit: Drawing" 
 bookFlatSection: false
 bookCollapseSection: true
+weight: 10
 
 ---
 
+
+### Unit 0: Drawing
+This initial unit prioritizes getting students making personally-meaningful things as fast as
+possible. This means we aren’t aiming for completeness. In particular, we’re not introducing 
+data structures in this unit; most students won’t need them, and we’ll spend a lot of time with
+them in the next unit.
+
+Working within the context of drawing, students practice building up complex programs from simple
+ones. We’ll use Python’s turtle library. Loosely inspired by Chris’s Python drawing unit from GMS.
+
+Programming:
+- Imperative programming
+- Basics of syntax
+- Control flow: sequences, loops, conditionals, functions
+- Levels of abstraction: functions, modules
+- Decomposition and code reuse.
 
 <!-- 
 #### Labs

@@ -1,5 +1,6 @@
 ---
 Title: Config
+draft: true
 ---
 
 # Configuration

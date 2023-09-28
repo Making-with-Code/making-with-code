@@ -1,5 +1,6 @@
 ---
 title: Syntax
+draft: true
 ---
 
 # Syntax

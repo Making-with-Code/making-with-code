@@ -1,6 +1,7 @@
 ---
 title: 0. Auto-Poetry
 type: checkup
+draft: true
 ---
 
 ## Functional Programming with Grammar

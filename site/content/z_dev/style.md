@@ -1,5 +1,6 @@
 ---
 Title: Style guide
+draft: true
 ---
 
 # Style guide

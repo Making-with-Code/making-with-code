@@ -3,6 +3,7 @@ title: Structure
 resources:
 - name: structure
 src: content_structure.png
+draft: true
 ---
 
 # Structure

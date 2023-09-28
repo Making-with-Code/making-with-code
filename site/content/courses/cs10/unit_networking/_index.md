@@ -1,7 +1,7 @@
 ---
-title: "Unit 00: Networking" 
+title: "Unit: Networking" 
 bookCollapseSection: true
-# weight: 20
+weight: 10
 ---
 
 
