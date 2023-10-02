@@ -22,7 +22,7 @@ You will be running a game from your terminal, so your terminal will need permis
 
 {{< figure src="images/courses/cs9/unit02/02_02_input_monitoring_permission.png" width="400px" >}}
 
-
+<!-- 
 {{< code-action "Start by going into your" >}} `cs9/unit02_games` **folder.**
 ```shell
 cd ~/desktop/making_with_code/cs9/unit02_games
@@ -31,8 +31,9 @@ cd ~/desktop/making_with_code/cs9/unit02_games
 {{< code-action "Clone the repo." >}} Do NOT add your username to the end of the url.
 ```shell
 git clone https://github.com/Making-with-Code/lab_games_sampler
-```
+``` -->
 
+🌐 **Github Repo:** [github.com/Making-with-Code/lab_games](https://github.com/Making-with-Code/lab_games)
 
 {{< code-action "Enter the Poetry shell and install the requirements:" >}}
 ```shell

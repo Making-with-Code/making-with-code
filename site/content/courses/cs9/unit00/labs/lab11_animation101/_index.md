@@ -46,21 +46,24 @@ For example, let's consider baking again.
 
 
 
-{{< code-action "Go to your" >}} `cs9/unit00_drawing` **folder.**
+<!-- {{< code-action "Go to your" >}} `cs9/unit00_drawing` **folder.**
 
 ```shell
 cd ~/desktop/making_with_code/cs9/unit00_drawing/
-```
+``` -->
 
-{{< code-action "Clone your repo. This will copy it onto your computer." >}}  
+🌐 **Github Repo:** [github.com/Making-with-Code/lab_animation101](https://github.com/Making-with-Code/lab_animation101)
+
+
+<!-- {{< code-action "Clone your repo. This will copy it onto your computer." >}}  
 ```shell
-git clone https://github.com/Making-with-Code/lab_animation101_yourGithubUsername
-```
-> Below you'll see that the `git clone` command has a `yourGithubUsername`. 
+git clone https://github.com/Making-with-Code/lab_animation101
+``` -->
+<!-- > Below you'll see that the `git clone` command has a `yourGithubUsername`. 
 >
 > **You need to replace this with your username**
 >
-> *e.g. `https://github.com/Making-with-Code/lab_animation101_emmaqbrown`*
+> *e.g. `https://github.com/Making-with-Code/lab_animation101_emmaqbrown`* -->
 
 
 

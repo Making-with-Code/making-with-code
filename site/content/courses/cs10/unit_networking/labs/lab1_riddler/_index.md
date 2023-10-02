@@ -17,14 +17,16 @@ In this lab we will remind ourselves of classes and object-oriented programming 
 
 ## [0] Setup
 
-
+<!-- 
 {{< code-action "Let's start by cloning the repository" >}} in your `cs10\unit00_networking` folder.  Be sure to change `yourgithubusername` to your actual Github username.
 
 ```shell
 cd ~/desktop/making_with_code/cs10/unit00_networking
 git clone https://github.com/the-isf-academy/lab_riddler_yourgithubusername
 cd lab_riddler_yourgithubusername
-```
+``` -->
+
+🌐 **Github Repo:** [github.com/Making-with-Code/lab_riddler](https://github.com/Making-with-Code/lab_riddler)
 
 {{< code-action "Get the necessary packages:" >}}
 ```shell

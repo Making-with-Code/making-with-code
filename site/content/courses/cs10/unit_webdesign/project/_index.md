@@ -53,20 +53,13 @@ If your design specs change over time, that's okay! Just be sure to justify what
 
 You have the option of hosting your site online using Github pages. Because of this, you will need to create a new repository from a *template* of  the repository into your personal Github account. 
 
-{{< code-action "Follow along with the teacher to ensure you properly create a template of the repository: " >}} [https://github.com/the-isf-academy/emmaqbrown.github.io](https://github.com/the-isf-academy/emmaqbrown.github.io).
+{{< code-action "Follow along with the teacher to ensure you properly create a template of the repository: " >}} [github.com/Making-with-Code/example_portfolio.github.io](https://github.com/Making-with-Code/example_portfolio.github.io).
 > - Select `Use this template`
 > - Select `Create a new repository`
 > - Name the repository: `yourgithubusername.github.io` *(e.g. emmaqbrown.github.io)*
 > - Select `Private` or `Public` (if you want your site to be live on the web, it must be `Public`)
 > - Select `Create repository from template`
 
-{{< code-action "Add the teachers to your  personal repository as a collaborators." >}}
-> - Select `Settings`
-> - Select `Collaborators and teams`
-> - Selected `Add people`
-> - Add `emmaqbrown` and `brittegenzlinger` as Admin
-
-{{< code-action "Clone the repository into your" >}} `cs10/unit_web_design` folder. 
 
 👀 **The repository contains the following:**
 - `index.html`
@@ -75,7 +68,7 @@ You have the option of hosting your site online using Github pages. Because of t
 - `/assets` - you should put in photos into folder 
 - `README.md`
 
-🌐 **If you would like for your project to be live on the web, you must activate Github pages**. Every time you push your Github, it will automatically push your website live to: `yourgithubername.github.io`. For example, mine is hosted at:[https://emmaqbrown.github.io/](https://emmaqbrown.github.io/).
+🌐 **If you would like for your project to be live on the web, you must activate Github pages**. Every time you push your Github, it will automatically push your website live to: `yourgithubername.github.io`. For example, the example is hosted at:[https://example_portfolio.github.io/](https://emmaqbrown.github.io/).
 > - Select `Settings` on the repo page
 > - Select `Pages` on the left sidebar
 > - Select `Branch` > `main` > `Save`
@@ -128,7 +121,7 @@ The project is scored out of 7.
 
 ## [4] Deliverables
 
-{{< deliverables  "Projects are due on Wednesday, 02 March." >}}
+{{< deliverables  "Projects are due soon." >}}
 
 - A `Web Design Project | Design Specification Document` - a Google Doc
 - A `yourgithubusername.github.io` repository 

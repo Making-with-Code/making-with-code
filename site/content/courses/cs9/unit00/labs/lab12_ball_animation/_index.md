@@ -12,7 +12,7 @@ In this lab we are going to create 3 different ball animations.
 ## [0] Set up
 
 
-{{< code-action "Go to your" >}} `cs9/unit00_drawing` **folder.**
+<!-- {{< code-action "Go to your" >}} `cs9/unit00_drawing` **folder.**
 
 ```shell
 cd ~/desktop/making_with_code/cs9/unit00_drawing/
@@ -26,7 +26,9 @@ git clone https://github.com/Making-with-Code/lab_ball_animation_yourGithubUsern
 >
 > **You need to replace this with your username**
 >
-> *e.g. `https://github.com/Making-with-Code/lab_ball_animation_emmaqbrown`*
+> *e.g. `https://github.com/Making-with-Code/lab_ball_animation_emmaqbrown`* -->
+
+🌐 **Github Repo:** [github.com/Making-with-Code/lab_ball_animation](https://github.com/Making-with-Code/lab_ball_animation)
 
 
 {{< code-action "In the Terminal, type the following command to open the lab folder." >}}

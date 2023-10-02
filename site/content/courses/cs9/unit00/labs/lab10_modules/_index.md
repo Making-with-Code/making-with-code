@@ -11,17 +11,20 @@ In this lab, we will learn how to organize our functions into modules. Modules a
 
 ## [0] Setup
 
-{{< code-action "Start by going into the unit folder." >}}
+<!-- {{< code-action "Start by going into the unit folder." >}}
 ```shell
 cd ~/desktop/making_with_code/unit00_drawing/
-```
+``` -->
+
+🌐 **Github Repo:** [github.com/Making-with-Code/lab_modules](https://github.com/Making-with-Code/lab_modules)
+
 
 {{< code-action "Go into the" >}} `lab_modules` 
 
 ```shell
-cd lab_modules_YOURGITHUBUSERNAME
+cd lab_modules
 ```
-> Don't forget to change "YOURGITHUBUSERNAME" to your actual Github username.
+<!-- > Don't forget to change "YOURGITHUBUSERNAME" to your actual Github username. -->
 
 {{< code-action "Update the packages" >}}
 ```shell

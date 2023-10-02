@@ -14,13 +14,15 @@ During the track lessons you will be creating the web app for the ISF Riddler. Y
 
 ## [0] Starter Code
 
-{{< code-action "Download your repository with starter code for your project." >}}
+<!-- {{< code-action "Download your repository with starter code for your project." >}} -->
 
-```shell
+<!-- ```shell
 cd ~/desktop/making_with_code/cs10/unit_web_apps/
 git clone https://github.com/the-isf-academy/lab_riddler_frontend_yourgithubusername
 cd lab_riddler_frontend_yourgithubusername
-```
+``` -->
+
+🌐 **Github Repo:** [github.com/Making-with-Code/lab_riddler_frontend](https://github.com/Making-with-Code/lab_riddler_frontend)
 
 {{< code-action "Install requirements" >}}
 ```shell

@@ -129,7 +129,7 @@ For this lab, we need to download software to view the database in a nicely form
 
 {{< figure src="https://sqlitebrowser.org/images/sqlitebrowser.svg" alt-text="database icon" >}}
 
-
+<!-- 
 {{< code-action "Get the lab and install any necessary packages." >}}
 ```shell
 mwc update
@@ -138,7 +138,11 @@ mwc update
 {{< code-action "In the Terminal, open the lab folder." >}}
 ```shell
 cd ~/desktop/making_with_code/cs10/unit00_networking/lab_riddle_database
-```
+``` -->
+
+
+
+🌐 **Github Repo:** [github.com/Making-with-Code/lab_riddle_database](https://github.com/Making-with-Code/lab_riddle_database)
 
 {{< code-action "Enter the Poetry Shell." >}} As a reminder, we will run this command at the start of each lab, but only when we are inside a lab folder.
 ```shell
@@ -253,7 +257,7 @@ Now that you've experienced adding and updating the database, we're going to exp
 
 {{< deliverables >}}  
 
-**Once you've successfully completed the worksheet be sure to fill out [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSfgWwxFI8SotkBsredlpQejYI2fHzJDQ-2oZgdYTq1ZQO_zjw/viewform?usp=sf_link).**
+**Once you've successfully completed the worksheet be sure to fill out [this Google form]('/').**
 
 {{< /deliverables >}}
 
@@ -265,5 +269,5 @@ Next lab we will explore how to write the Riddle server.
 
 {{< code-action "Feel free to open up the code and start to understand how it works!" >}}
 ```shell
-atom .
+code .
 ```

@@ -28,13 +28,15 @@ to a server to send and receive information.
 
 ## [1] Set Up
 
-
+<!-- 
 {{< code-action "Go to the unit folder, clone the riddler server lab, and cd into the repo." >}}
 ```shell
 cd ~/desktop/making_with_code/cs10/unit00_networking/
 git clone https://github.com/the-isf-academy/lab_client_YOURGITHUBUSERNAME
 cd lab_client_YOURGITHUBUSERNAME
-```
+``` -->
+
+🌐 **Github Repo:** [github.com/Making-with-Code/lab_client](https://github.com/Making-with-Code/lab_client)
 
 {{< code-action "Install the requirements." >}}
 ```shell

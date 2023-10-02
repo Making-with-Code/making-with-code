@@ -25,7 +25,7 @@ In this lab, you will create a typing game! You will be re-introduced to the Ter
 
 ## [0] Setup
 
-{{< code-action "In the Terminal, open your" >}} `making_with_code/cs9` **folder:**
+<!-- {{< code-action "In the Terminal, open your" >}} `making_with_code/cs9` **folder:**
 ```shell
 cd ~/desktop/making_with_code/cs9/
 ```
@@ -43,11 +43,14 @@ mkdir unit02_games
 
 ```shell
 git clone https://github.com/Making-with-Code//lab_typing_game_yourGithubUsername
-```
+``` -->
+
+
+🌐 **Github Repo:** [github.com/Making-with-Code/lab_typing_game](https://github.com/Making-with-Code/lab_typing_game)
 
 {{< code-action >}} `cd` **into the lab**
 ```shell
-cd lab_typing_game_yourGithubUsername
+cd lab_typing_game
 ```
 
 

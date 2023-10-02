@@ -18,7 +18,7 @@ The last time you ventured into the Terminal, you came away with treasure! It's 
 ---
 
 ## [0] Setup
-
+<!-- 
 {{< aside "Windows Users" >}}
 Windows users should use Powershell wherever it says Terminal.
 
@@ -29,7 +29,9 @@ You may see more information output than your Mac peers, but all commands should
 ```shell
 git clone https://github.com/the-isf-academy/lab_terminal_adventure_sequel
 cd lab_terminal_adventure_sequel
-```
+``` -->
+
+🌐 **Github Repo:** [github.com/Making-with-Code/lab_terminal_adventure_sequel](https://github.com/Making-with-Code/lab_terminal_adventure_sequel)
 
 
 {{< code-action "Enter the Poetry Shell." >}} Remember, we run this command at the start of each lab, but only when we are inside a lab folder.

@@ -15,13 +15,14 @@ In this challenge, you will learn about object oriented programming through the 
 
 ##  [1] Setup
 
+🌐 **Github Repo:** [github.com/Making-with-Code/lab_bank](https://github.com/Making-with-Code/lab_bank)
 
-{{< code-action >}} **In your `cs9` directory, clone the `lab-bank` repository inside it.**
+<!-- {{< code-action >}} **In your `cs9` directory, clone the `lab-bank` repository inside it.**
 
 ```shell
 cd cs9/unit_02
 git clone https://github.com/Making-with-Code/lab-bank-YOUR-GITHUB-USERNAME.git
-```
+``` -->
 
 
 ## [2] Understanding the Bank and Account Classes

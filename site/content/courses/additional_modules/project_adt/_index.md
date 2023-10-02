@@ -27,10 +27,13 @@ to serve orders to an imaginary internet shopping company.
 {{< code-action >}} Starter code for the project is provided in the
 `project-queue` repo. Download it *onto your laptop*.
 
-```shell
+<!-- ```shell
 $ cd cs10/unit_01
 $ git clone https://github.com/the-isf-academy/project-queue-YOUR-GITHUB-USERNAME.git
-```
+``` -->
+
+🌐 **Github Repo:** [github.com/Making-with-Code/project_queue](https://github.com/Making-with-Code/project_queue)
+
 
 ## Planning Document
 This project will require you to explore the theory behind efficient data
@@ -72,23 +75,6 @@ a particular index.
 
 **You can find more documentation about what each of the files should 
 contain within the README.md file in the project directory.**
-
-## Timeline
-### cs10.1
-
-| Stage               | Date                                          |
-|---------------------|-----------------------------------------------|
-| Project Introduced  | January 19, 2021                              |
-| Code Due            | February 3, 2021 (end  of Block 3 class)      |
-| Self-Assessment Due | February 5, 2021 (beginning of Block 1 class) |
-
-### cs10.2
-
-| Stage               | Date                                          |
-|---------------------|-----------------------------------------------|
-| Project Introduced  | January 14, 2021                              |
-| Code Due            | February 2, 2021 (end of Block 1 class)       |
-| Self-Assessment Due | February 4, 2021 (beginning of Block 4 class) |
 
 ## Assessment
 The assessment for this project will be slightly different than

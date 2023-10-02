@@ -228,46 +228,6 @@ You will need to use the [HKO API Documentation](https://www.hko.gov.hk/en/weath
 
 ## [4] Extension
 
-
-### [ISF Energy Database]
-
-The ISF Energy Database keep historical and current data about the school's energy usage. This includes tracking how many kilowatt hours were used over a period of time and the amount of money spent. This data is tracked by sensors placed all around the school.
-
-
-{{< figure src="images/courses/cs10/unit00/isf_energy_sensors_00.png" width="100%" alt-text="An HTTP GET request" >}}
-
-This API requires an authroization access token. As such, we will use an online service to make API requests easier than using the Terminal. 
-
-{{< code-action >}} **To start, you will need to join our cs10 team on Postman via this [LINK](https://app.getpostman.com/join-team?invite_code=f4474c23d3b0d727b50c57a0c4ed6bd1&target_code=e00a10c981618d9db374041d68a577f1).** Simply sign in with your ISF Google account to get join. 
-
-{{< code-action >}} **Once you've joined, click on `isf energy database` to see the details of the API.**
-{{< figure src="images/courses/cs10/unit00/isf_energy_sensors_01.png" width="100%" alt-text="An HTTP GET request" >}}
-
-{{< code-action >}} **You will first need to generate an `access_token` from the `POST Get Access Token` route and copy it.** We will learn more about `http POST` requests and routes in the next lab.
-{{< figure src="images/courses/cs10/unit00/isf_energy_sensors_02.png" width="100%" alt-text="An HTTP GET request" >}}
-
-
-{{< code-action >}} **You can then explore the 3 `GET` requests available. For each one, you will need to paste in the `access_token`.** To paste in the token:
-> 0) Select a `GET` request
-> 1) Select `Headers`
-> 2) Paste in the `access_token`, replacing the old access token
-{{< figure src="images/courses/cs10/unit00/isf_energy_sensors_03.png" width="100%" alt-text="An HTTP GET request" >}}
-
-
-
-{{< code-action >}} **You can then `Send` the request to recieve the `JSON`.**
-> 0) Select `Params`
-> 1) Change any of the paramters under `Value` to your desired request. You may want to open the `Description` to learn more. 
-{{< figure src="images/courses/cs10/unit00/isf_energy_sensors_04.png" width="100%" alt-text="An HTTP GET request" >}}
-
-{{< code-action >}} **The `JSON` will appear below in the `Body`.** Feel free to experiment with the different display settings such as `Raw`.
-
-{{< figure src="images/courses/cs10/unit00/isf_energy_sensors_05.png" width="75%" alt-text="An HTTP GET request" >}}
-
----
-
-### [Other APIs]
-
 Now that you've had succifient practice accessing APIs, it's time to explore what type of APIs exist. 
 
 {{< code-action "Explore an API of your choosing." >}} You may want to use the `httpie` Terminal commands, or experiment using Postman. Here are some suggestions of APIs to explore:

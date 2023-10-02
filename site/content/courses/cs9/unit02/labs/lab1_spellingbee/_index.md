@@ -26,7 +26,7 @@ Consider, how would you build this game in Python?
 ---
 
 ## [0] Setup
-
+<!-- 
 {{< code-action "Start by going into your" >}} `cs9/unit02_games` **folder.**
 ```shell
 cd ~/desktop/making_with_code/cs9/unit02_games
@@ -35,8 +35,10 @@ cd ~/desktop/making_with_code/cs9/unit02_games
 {{< code-action "Clone your starter code." >}} Be sure to change `YOUR-GITHUB-USERNAME` to your actual Github username.
 ```shell
 git clone https://github.com/Making-with-Code/lab_spellingbee_yourgithubusername
-```
+``` -->
 
+
+🌐 **Github Repo:** [github.com/Making-with-Code/lab_spellingbee](https://github.com/Making-with-Code/lab_spellingbee)
 
 {{< code-action "Enter the Poetry shell and install the requirements:" >}}
 ```shell

@@ -13,7 +13,7 @@ In addition to `for` loops which run for a set number of iterations, Python has 
 ## [0] Set up
 
 
-{{< code-action "Start by going into the unit folder." >}}
+<!-- {{< code-action "Start by going into the unit folder." >}}
 ```shell
 cd ~/desktop/making_with_code/unit00_drawing/
 ```
@@ -21,7 +21,10 @@ cd ~/desktop/making_with_code/unit00_drawing/
 {{< code-action "Then clone the lab" >}}
 ```shell
 git clone https://github.com/Making-with-Code/lab_while
-```
+``` -->
+
+🌐 **Github Repo:** [github.com/Making-with-Code/lab_while](https://github.com/Making-with-Code/lab_while)
+
 
 
 {{< code-action "Now that you have the lab, go into its folder." >}}

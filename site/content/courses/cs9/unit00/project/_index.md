@@ -39,7 +39,10 @@ This is a big project, and you will get lost or frustrated if you don't do some 
 
 For this project, your code will live in a git repository. It is your responsibility to regularly commit to your repository.
 
-{{< code-action "Download your respository with starter code for your project." >}}
+🌐 **Github Repo:** [github.com/Making-with-Code/project_animatio](https://github.com/Making-with-Code/project_animatio)
+
+
+<!-- {{< code-action "Download your respository with starter code for your project." >}}
 > replace the `yourGithubUsername` with your Github username.
 >
 > *example:*
@@ -50,7 +53,7 @@ For this project, your code will live in a git repository. It is your responsibi
 ```shell
 cd ~/Desktop/making_with_code/cs9/unit00_drawing/
 git clone https://github.com/the-isf-academy/project_animation_yourGithubUsername.git
-```
+``` -->
 
 It contains the following files:
 - `project.py` When this program runs, it should draw your project.

@@ -42,13 +42,15 @@ Before you start working on your project, you are required to complete the both 
 In this lab, you will be working in groups, storing your shared code in your group's repository.
 
 {{< code-action "Download your repository with starter code for your project." >}}
-
+<!-- 
 ```shell
 cd ~/desktop/making_with_code/cs10/unit00_networking/
 git clone https://github.com/the-isf-academy/project_networking_group#.git
 cd project_networking_group#
 ```
-> replace `#` with your group number
+> replace `#` with your group number -->
+
+🌐 **Github Repo:** [github.com/Making-with-Code/project_networking](https://github.com/Making-with-Code/project_networking)
 
 
 {{< code-action "Enter the poetry shell." >}}

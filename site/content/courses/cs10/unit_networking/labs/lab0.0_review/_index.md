@@ -13,7 +13,7 @@ Let's review by taking it back to CS9 Turtle drawings!
 ---
 
 ## [0] Set up
-
+<!-- 
 Now that you're in **cs10** you need a `cs10` folder! 
 
 {{< code-action  >}} **In the Terminal, go into your `making_with_code` folder and create a `cs10` folder.**
@@ -34,7 +34,11 @@ mkdir unit00_networking
 ```shell
 git clone https://github.com/the-isf-academy/lab_turtle_review_yourgithubusername
 cd lab_turtle_review_yourgithubusername
-```
+``` -->
+
+🌐 **Github Repo:** [github.com/Making-with-Code/lab_turtle_review](https://github.com/Making-with-Code/lab_turtle_review)
+
+
 
 {{< code-action >}} `cd` **into the lab**
 ```shell

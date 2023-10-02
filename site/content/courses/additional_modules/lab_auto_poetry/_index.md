@@ -40,15 +40,20 @@ Finally, `sentence` makes a `Sentence` from a `NounPhrase` and a `VerbPhrase`.
 Your chewing sounds annoy my hungry little mouse. 
 {{< /expand >}}
 
+---
 
 
 ## Part 3: Auto-poetry
 
+🌐 **Github Repo:** [github.com/Making-with-Code/lab_types](https://github.com/Making-with-Code/lab_types)
 
-### *Working with Git*
 
-For this lab, use the following link to create a repo for your lab work. This will be an individual assignment, but you will work in a team with your table group.
+<!-- ### *Working with Git* -->
 
+<!-- For this lab, use the following link to create a repo for your lab work. This will be an individual assignment, but you will work in a team with your table group. -->
+
+
+<!-- 
 {{< code-action >}} **First, create a `unit_01` directory in your `cs9` folder and clone the lab repository in it.** 
 To create a new directory use the command: `mkdir folder_name`. 
 
@@ -58,9 +63,9 @@ To create a new directory use the command: `mkdir folder_name`.
 ```shell
 $ cd cs9/unit_01
 $ git clone https://github.com/the-isf-academy/lab-types-YOUR-GITHUB-USERNAME.git
-```
+``` -->
 
-{{< expand "Reminder: Basic Git Workflow" >}}
+<!-- {{< expand "Reminder: Basic Git Workflow" >}}
 The basic workflow is still the same:
 
 + `git status` to determine what has change
@@ -68,7 +73,7 @@ The basic workflow is still the same:
 + `git commit` to write a message about what you've changed
 + `git push` to push your changes to Github
 
-{{< /expand >}}
+{{< /expand >}} -->
 
 <hr>
 

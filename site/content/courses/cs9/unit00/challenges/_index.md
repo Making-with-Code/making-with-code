@@ -16,7 +16,7 @@ Make sure you have followed the Initial Set Up before selecting a challenge. You
 
 ---
 
-## Initial Set Up
+<!-- ## Initial Set Up
  
 
 {{< code-action >}} **Start by going into your `unit00_drawing` folder.**
@@ -42,7 +42,7 @@ python3 turtle_art.py
 
 {{< /aside >}}
 
----
+--- -->
 
 ## Turtle Art
 

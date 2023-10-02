@@ -19,7 +19,7 @@ In this lab, we'll get re-aquainted with CS concepts such as classes and decompo
 
 ## [0] Set up
 
-
+<!-- 
 {{< code-action "Let's start by cloning the repository" >}} in your `cs10\unit00_networking` folder.  Be sure to change `yourgithubusername` to your actual Github username.
 
 ```shell
@@ -27,7 +27,10 @@ cd ~/desktop/making_with_code/cs10/unit00_networking
 git clone https://github.com/the-isf-academy/lab_ballpit_yourgithubusername
 cd lab_ballpit_yourgithubusername
 ```
-> 🤔 *Remember, `tab` autocompletes files and folders in the Terminal*
+> 🤔 *Remember, `tab` autocompletes files and folders in the Terminal* -->
+
+
+🌐 **Github Repo:** [github.com/Making-with-Code/lab_ballpit](https://github.com/Making-with-Code/lab_ballpit)
 
 📄 **This repository contains the following files:**
 - `ball.py`

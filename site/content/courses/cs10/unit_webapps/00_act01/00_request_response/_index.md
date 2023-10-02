@@ -32,15 +32,17 @@ the request/response lifecycle.
 
 --- 
 
-{{< code-action >}} **Let's get started by making a `unit_02` folder and checking out the sample app.**
+<!-- {{< code-action >}} **Let's get started by making a `unit_02` folder and checking out the sample app.** -->
  
-```shell
+<!-- ```shell
 cd ~/desktop/making-with-code/cs10
 mkdir unit_web_apps
 cd unit_web_apps
 git clone https://github.com/the-isf-academy/lab_colorama_yourgithubusername
 cd lab_colorama_yourgithubusername
 ```
+ -->
+🌐 **Github Repo:** [github.com/Making-with-Code/lab_colorama](https://github.com/Making-with-Code/lab_colorama)
 
 {{< code-action "Enter the poetry shell and install the required packages." >}}
 ```shell

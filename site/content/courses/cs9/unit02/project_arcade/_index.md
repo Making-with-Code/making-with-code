@@ -38,7 +38,7 @@ It is important for you to plan the game prior to coding. This will help you sta
 
 
 ##  [1] Set Up
-
+<!-- 
 {{< code-action "Start by going into your" >}} `cs9/unit02_games` **folder.**
 ```shell
 cd ~/desktop/making_with_code/cs9/unit02_games
@@ -47,7 +47,9 @@ cd ~/desktop/making_with_code/cs9/unit02_games
 {{< code-action "Clone your starter code." >}} Be sure to change `yourgroupname` to your actual Github username.
 ```shell
 git clone https://github.com/Making-with-Code/project_games_arcade_yourgroupname
-```
+``` -->
+
+🌐 **Github Repo:** [github.com/Making-with-Code/project_games_arcade](https://github.com/Making-with-Code/project_games_arcade)
 
 {{< code-action "Enter the Poetry shell and install the requirements:" >}}
 ```shell

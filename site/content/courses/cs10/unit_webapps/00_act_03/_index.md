@@ -13,7 +13,7 @@ You finally get your hands on some code! During Act III you and your partner wil
 
 ## [0] Starter Code
 
-In this lab, you will be working in groups, storing your shared code in your group's repository.
+<!-- In this lab, you will be working in groups, storing your shared code in your group's repository.
 
 
 {{< code-action "Download your repository with starter code for your project." >}}
@@ -23,8 +23,9 @@ cd ~/desktop/making_with_code/cs10/unit_web_apps/
 git clone https://github.com/Making-with-Code/project_web_apps_group#.git
 cd project_web_apps_group#
 ```
-> replace `#` with your group number
+> replace `#` with your group number -->
 
+🌐 **Github Repo:** [github.com/Making-with-Code/project_web_apps](https://github.com/Making-with-Code/project_web_apps)
 
 {{< code-action "Enter the poetry shell." >}}
 ```shell
@@ -109,11 +110,16 @@ The project is scored out of 7.
 
 In order to back up your database and push it to github, follow these steps:
 
-{{< code-action "Go to your repository:" >}}
+<!-- {{< code-action "Go to your repository:" >}}
 
 ```shell
 cd ~/desktop/making_with_code/cs10/unit_web_apps/project_web_apps_YOURGROUPNAME
-```
+``` -->
+
+
+🌐 **Github Repo:** [github.com/Making-with-Code/project_web_apps](https://github.com/Making-with-Code/project_web_apps)
+
+
 {{< code-action "Enter the poetry shell:" >}}  
 ```shell
 poetry shell

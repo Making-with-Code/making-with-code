@@ -55,11 +55,13 @@ Each student has their own repository. If you are working as a pair, tell a teac
 
 {{< code-action "Download your repository with starter code for your project." >}}
 
-```shell
+<!-- ```shell
 cd ~/desktop/making_with_code/cs10/unit_cryptography/
 git clone https://github.com/the-isf-academy/project_cryptography_yourgithubusername.git
 cd project_cryptography_yourgithubusername
-```
+``` -->
+
+🌐 **Github Repo:** [github.com/Making-with-Code/project_cryptography](https://github.com/Making-with-Code/project_cryptography)
 
 {{< code-action "Enter the poetry shell." >}}
 ```shell

@@ -17,7 +17,11 @@ How does a loop work in python? Let's see.
 
 ## [0] Setup
 
-{{< code-action >}} **Start by going into your `unit00_drawing` folder.**
+🌐 **Github Repo:** [github.com/Making-with-Code/lab_loops](https://github.com/Making-with-Code/lab_loops)
+
+
+
+<!-- {{< code-action >}} **Start by going into your `unit00_drawing` folder.**
 ```shell
 cd ~/desktop/making_with_code/unit00_drawing/
 ```
@@ -25,7 +29,7 @@ cd ~/desktop/making_with_code/unit00_drawing/
 {{< code-action "Then clone the lab" >}}
 ```shell
 git clone https://github.com/Making-with-Code/lab_loops
-```
+``` -->
 
 {{< code-action "Now that you have the lab, go into its folder." >}}
 ```shell

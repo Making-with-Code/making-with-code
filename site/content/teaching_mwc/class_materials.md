@@ -1,6 +1,6 @@
 ---
-title: Class Materials
-weight: 20
+title: Classroom Resources
+weight: 30
 # numberHeaders: true
 
 # bookCollapseSection: true
@@ -36,19 +36,32 @@ We start each class with starter exercises that align with the current lab conte
 
 Students typically complete each Do Now on a small white board at their desk to encourage engagement and non-permant guessing.
 
-
-## Kahoots
+<!-- 
+## Kahoots -->
 
 
 ## Parsons Problems 
 
-## Worksheets
+Parsons problems are an activity that allows students to focus on their logical reasoning. It is either cut up pieces of psueodocde or Python code. Students are then expected to arrange the code in the correct order. This is typically an activity completed in pairs. 
+
+<!-- ## Worksheets
+
+We  -->
 
 ## Self-assessments 
 
-## Booklets
+Over the years we have experimented with different forms of self-assessments. We have found a paper self-assessment allows students to easily reference their code without being distracted/bogged down by having multiple windows open at once. 
+
+## Planning Booklets
+
+Over the years we have also experimented with different forms of planning documents. In particulary for cs9, we have found paper planning documents to be more effective in habbit building and process documentation. 
+
+
+## Code log
+We have found that for the first cs9 unit it works best for students to clone the main repo and just work on their code locally. We then provide students with a personalized lab log to track and reflect on their progress overtime. This allows students to get in the habit of Git commits, without having to learn the setups of Git in the first month of the class. 
+
+You can view the template for a code log [HERE]('/')
 
 ## Ethics in Computing 
 
-Throughout most units, we aim to incorporate discussions around ethics in computing. 
-
+Throughout most units, we aim to incorporate discussions around ethics in computing. We hope to build out the documentation for specific discussion guides over time. 

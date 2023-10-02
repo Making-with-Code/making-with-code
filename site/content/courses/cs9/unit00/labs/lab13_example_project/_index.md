@@ -12,7 +12,11 @@ In this lab we are going to explorea an adapted version of a previous student's 
 
 ## [1] Set Up
 
-{{< code-action "Go to your" >}} `cs9/unit00_drawing` **folder.**
+
+🌐 **Github Repo:** [github.com/the-isf-academy/project_animation_example](https://github.com/Making-with-Code/project_animation_example)
+
+
+<!-- {{< code-action "Go to your" >}} `cs9/unit00_drawing` **folder.**
 
 ```shell
 cd ~/desktop/making_with_code/cs9/unit00_drawing/
@@ -24,7 +28,7 @@ cd ~/desktop/making_with_code/cs9/unit00_drawing/
 git clone https://github.com/Making-with-Code/project_animation_example
 ```
 
-poetry shell
+poetry shell -->
 
 
 ---
@@ -45,7 +49,7 @@ mkdir lab_08_decomposition
 
 ```shell
 cd lab_08_decomposition
-git clone https://github.com/the-isf-academy/unit_00_project_Iris.git
+git clone https://github.com/Making-with-Code/unit_00_project_Iris.git
 cd unit_00_project_Iris
 ```
 

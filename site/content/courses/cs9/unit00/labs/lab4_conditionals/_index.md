@@ -7,6 +7,8 @@ title: 04. Conditionals
 # Conditionals
 In this lab, we'll introduce a new concept: conditionals. This allows change  the behavior of our code based on context.
 
+---
+
 ## [0] Conditional behavior
 
 There are many situations where you change your behavior based on the environment. For example, if it is raining outside, you wear rain boots. Otherwise, you might wear a different kind of shoe like tennis shoes.
@@ -29,7 +31,7 @@ In computer science, **we call this kind of behavior `conditional`**: your code 
 ---
 
 ## [1] Set up
-
+<!-- 
 {{< code-action >}} **Start by going into your `unit00_drawing` folder.**
 ```shell
 cd ~/desktop/making_with_code/unit00_drawing/
@@ -37,7 +39,11 @@ cd ~/desktop/making_with_code/unit00_drawing/
 {{< code-action "Then clone the lab" >}}
 ```shell
 git clone https://github.com/Making-with-Code/lab_conditionals
-```
+``` -->
+
+🌐 **Github Repo:** [github.com/Making-with-Code/lab_conditionals](https://github.com/Making-with-Code/lab_conditionals)
+
+
 
 {{< code-action "Now that you have the lab, go into its folder." >}}
 ```shell

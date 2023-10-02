@@ -18,7 +18,7 @@ In this lab we are going to learn how the riddle server is made using Banjo.
 ## [0] Set Up
 
 You are each able to run a locally hosted riddle server on your laptop using Banjo.
-
+<!-- 
 {{< code-action "Start by going into the unit folder" >}}
 ```shell
 cd ~/desktop/making_with_code/cs10/unit00_networking/
@@ -32,7 +32,10 @@ git clone https://github.com/the-isf-academy/lab_riddle_server_YOUR_USERNAME
 {{< code-action "Go into the lab folder." >}} 
 ```shell
 cd lab_riddle_server_YOUR_USERNAME
-```
+``` -->
+
+🌐 **Github Repo:** [github.com/Making-with-Code/lab_riddle_server](https://github.com/Making-with-Code/lab_riddle_server)
+
 
 
 {{< code-action "Enter the Poetry shell" >}}

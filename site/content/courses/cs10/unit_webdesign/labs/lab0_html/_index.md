@@ -4,10 +4,14 @@ weight: 20
 # draft: true
 ---
 
-# lab_html
+# HTML
 
 
 In this lab, you will write your first web page in `HTML`. 
+
+🌐 **Github Repo:** [github.com/Making-with-Code/lab_html](https://github.com/Making-with-Code/lab_html)
+
+---
 
 💻 **Open `index.html` in your web browser:** `open index.html`.
 > `index.html` is the most common name for the start page of a web site.

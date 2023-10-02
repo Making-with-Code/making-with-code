@@ -9,16 +9,16 @@ title: "01. Terminal Adventure"
 This lab will explore one of the most important tools we'll use all year: the Terminal. The Terminal is what we'll use to navigate our filesystem, run code files, install software, and
 do all kinds of other tasks.
 
+---
 
-{{< aside "Windows Users" >}}
-Windows users should use Powershell wherever it says Terminal.
 
-You may see more information output than your Mac peers, but all commands should work the same.
-{{< /aside >}}
+🌐 **Github Repo:** [github.com/Making-with-Code/lab_terminal_adventure](https://github.com/Making-with-Code/lab_terminal_adventure.git)
+
+
 
 ---
 
-## [0] Setup
+## [0] Explore the Terminal
 
 First, we want to make some folders to store our work. Do this we'll be using these three commands:
 
@@ -28,6 +28,13 @@ First, we want to make some folders to store our work. Do this we'll be using th
 | `mkdir`              | Make a new directory (folder)                   |
 | `cd folder`       | Go to `folder`                            |
 | `cd ..`       | Go up one to the previous folder                            |
+
+
+{{< aside "Windows Users" >}}
+Windows users should use Powershell wherever it says Terminal.
+
+You may see more information output than your Mac peers, but all commands should work the same.
+{{< /aside >}}
 
 {{< code-action >}} **Open Terminal and use `ls` to list out where you are in your folder system.** 
 
@@ -43,7 +50,7 @@ Creative Cloud Files Library              Public
 Desktop              Movies
 Documents            Music
 ```
-
+<!-- 
 {{< code-action >}} **Then, use `cd` to change directories to your `Desktop`.** A directory is just a fancy word for a folder.
 
 ```shell
@@ -68,7 +75,7 @@ ls
 
 ```shell
 cd making_with_code
-```
+``` -->
 <!-- 
 ---
 
@@ -83,9 +90,9 @@ mkdir CS9
 cd CS9
 ``` -->
 
----
+<!-- --- -->
 
-
+<!-- 
 {{< code-action  >}} **Make a `unit00_drawing` directory.** This will store your files for our first unit. 
 
 ```shell
@@ -94,8 +101,8 @@ mkdir unit00_drawing
 {{< code-action  >}} **Go into the `unit00_drawing` folder**
 ```shell
 cd unit00_drawing
-```
-
+``` -->
+<!-- 
 ---
 
 {{< code-action "Run the following command in your terminal to clone today's lab." >}} This will make a copy of the code on your own computer. *This uses something called `git` and `Github`, you will learn more about this later this unit.*
@@ -127,7 +134,7 @@ poetry shell
 When you want to exit the shell, you can type `exit` or `^D`
 {{< /aside >}}
 
-📁 **Your folders are now all properly setup for `cs`!**
+📁 **Your folders are now all properly setup for `cs`!** -->
 
 ---
 

@@ -10,7 +10,7 @@ In this lab, we will deepen our understanding with a series of design challenges
 
 ## [0] Set up
 
-{{< code-action "Start by going into the unit folder." >}}
+<!-- {{< code-action "Start by going into the unit folder." >}}
 ```shell
 cd ~/desktop/making_with_code/unit00_drawing/
 ```
@@ -18,7 +18,10 @@ cd ~/desktop/making_with_code/unit00_drawing/
 {{< code-action "Then clone the lab" >}}
 ```shell
 git clone https://github.com/Making-with-Code/lab_functions2
-```
+``` -->
+
+🌐 **Github Repo:** [github.com/Making-with-Code/lab_functions2](https://github.com/Making-with-Code/lab_functions2)
+
 
 {{< code-action "Now that you have the lab, go into its folder." >}}
 ```shell

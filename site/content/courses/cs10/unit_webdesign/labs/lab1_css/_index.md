@@ -4,9 +4,13 @@ weight: 20
 # draft: true
 ---
 
-# lab_css
+# CSS
 
 In this lab, each student will be the designer and the developer. Each student will select a context to design for and then exchange design sheets with their partners. They are then in charge of bringining their partner's design to life. 
+
+🌐 **Github Repo:** [github.com/Making-with-Code/lab_css](https://github.com/Making-with-Code/lab_css)
+
+---
 
 The `/amusement` and `/weather` directories are different contexts students will design for and contains an HTML document
 with information for that contexts.

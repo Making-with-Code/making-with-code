@@ -16,11 +16,15 @@ There are always extension activites for students to continue exploring a topic 
 {{< /aside >}}
 
 
+
+
+
+
 ---
 
 ## [0] Setup
 
-
+<!-- 
 {{< code-action >}} **First, let's use `cd` to go into our unit directory.**
 ```shell
 cd ~/Desktop/making_with_code/unit00_drawing
@@ -29,9 +33,11 @@ cd ~/Desktop/making_with_code/unit00_drawing
 {{< code-action >}} **Now, let's *clone* the lab.** This pulls the code from the cloud, onto your local computer. We will do this at the start of each lab.
 ```shell
 git clone https://github.com/Making-with-Code/lab_variables
-```
+``` -->
+🌐 **Github Repo:** [github.com/Making-with-Code/lab_variables](https://github.com/Making-with-Code/lab_variables)
 
-{{< code-action >}} **Then, enter the lab folder and start the `poetry shell`**
+
+{{< code-action >}} **Enter the lab folder and start the `poetry shell`**
 ```shell
 cd lab_variables
 ```
