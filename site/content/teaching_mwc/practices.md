@@ -26,22 +26,20 @@ prepared to take one roles as computer scientists.
 - git and Github
 - Jupyter Notebooks/Google Colab
 
-### White boards
+#### Whiteboards
 
-Allows you to quickly jot tip down to students
+We reccomend having a whiteboard at each student's desk, so you can develop pseudocode together that then stays with the student. It also allows you to quickly jot down tips or specific line numbers for students to focus on, while allowing you to spend more one-on-one time with lower level students. 
 
-good for drawing unit 
-
-allows students to think through material 
+In general, we've found writing to be a super useful tool when coding - and whiteboards can be helpful impermanent tool to foster creativity and logical thinking. 
 
 ## Assessment
 The course utilizes a comprehensive meta-cognitive self-assessment as a guide for learning priorities and for learning assessment.
 
 ## Feedback
 
-git commits 
-feedback on gitcommits
-feedback on lab logs
+We provdie asynchronous feedback to each student on their code. This is facilitated either through Git commit comments or through comments in their Google Doc Code Log.
+
+This allows us to provide personalized feedback on each student's work, without spending too much class-time with initial one-on-one checkins. 
 
 ## Assigning competence
 
@@ -52,11 +50,12 @@ Create practices by which students are seen as experts.
 ## Authorship
 
 It is very important that each student develop as an author of her code.  
-- Teachers will never touch a student’s keyboard. Instead, sit with the student and guide her in what to do. It can be helpful to bring another laptop, increase the font size, and type out code for the student to copy. It’s also great to have portable whiteboards or writable desk surfaces, so you can develop pseudocode together that then stays with the student. (The only exception would be if there is some error at a deeper level than the student would be expected to know about, eg incompatible package versions installed.)  
-- Students should never look at each others’ code. They may work on problems together, using pseudocode and diagrams. This is going to be a challenge, because pair programming might be very productive during labs and group projects.  
+- Teachers will never touch a student’s keyboard. Instead, sit with the student and guide her in what to do. It can be helpful to bring another laptop, increase the font size, and type out code for the student to copy. This is also when the whiteboard at each desk is extremely usefl. (The only exception would be if there is some error at a deeper level than the student would be expected to know about, eg incompatible package versions installed.)  
+- We encourage students to help each other, but never to code for each other. The aim is for student's to share knowledge and depend on each other for help.
+- If studnets find useful resources online, we ask them to cite the source as a comment in their code.
 
-🚨 we allow students to look at each others' code... should we take this out?? 
-
+ <!-- Students should never look at each others’ code. They may work on problems together, using pseudocode and diagrams. This is going to be a challenge, because pair programming might be very productive during labs and group projects.   -->
+ 
 ## Funds of knowledge
 
 The idea that we will look at students as having lots of resources they can deploy in their learning (rather than viewing them in terms of their deficits). This also means we need to let go of the idea that we’re solely in the position of determining what’s worthwhile in CS. Our students are going to create things that are worthwhile and successful on their terms, not ours. We are going to support them, while also being warmly demanding. This is not a radical proposition, especially in CS: It’s such a new field that nobody really knows what CS is or what its boundaries are. If we’re finding ways of working that are effective, thinking about ideas that feel powerful, and making things that feel like they matter, then we’re doing the right thing.  
@@ -67,4 +66,4 @@ Small groups are an important context for high-quality disciplinary talk. When s
 - Our recommendation is to always assign seats and groups, change groups regularly (perhaps every lab), and allow students some private input (eg “I really don’t get along with X”).
 
 
-always sit with a partner. rotate pairs or always assign. 
+<!-- always sit with a partner. rotate pairs or always assign.  -->
