@@ -4,10 +4,10 @@ weight: 30
 ---
 
 # Contact us
-If you have questions about this project or run into issues while trying to use any of the 
-curriculum, you can [contact us here](mailto:jacob.h.wolf@gmail.com).
+<!-- If you have questions about this project or run into issues while trying to use any of the 
+curriculum, you can [contact us here](mailto:jacob.h.wolf@gmail.com). -->
 
-We'd love to hear about your experience with MwC and any feedback you may have. Feel free to fill out [this Google Form]('/')
+We'd love to hear about your experience with MwC and any feedback you may have. Feel free to fill out [this Google Form](https://docs.google.com/forms/d/e/1FAIpQLSd-rPTvUiIJXXNvMXTrhaxYPERp2jc2_zBTc3J6wxFWu5M86A/viewform)
 
 
 ### About us

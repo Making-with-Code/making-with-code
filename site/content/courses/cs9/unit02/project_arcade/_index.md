@@ -69,7 +69,7 @@ This repo includes the following files:
 
 ## [2] Deliverables
 
-{{< deliverables  "Projects are due on the last day of class!" >}}
+{{< deliverables   >}}
 
 - A `project-games-arcade` repository will include all the following files + any additional files:
     - `game.py` 

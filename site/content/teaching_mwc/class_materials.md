@@ -60,7 +60,7 @@ Over the years we have also experimented with different forms of planning docume
 ## Code log
 We have found that for the first cs9 unit it works best for students to clone the main repo and just work on their code locally. We then provide students with a personalized lab log to track and reflect on their progress overtime. This allows students to get in the habit of Git commits, without having to learn the setups of Git in the first month of the class. 
 
-You can view the template for a code log [HERE]('/')
+You can view the template for a code log [HERE](https://docs.google.com/document/d/1OCwATNEdQYxpJ_4c5j-NMwepgC59AggU9E6BbQXExM0/edit#heading=h.ljloxd1p2yx2)
 
 ## Ethics in Computing 
 

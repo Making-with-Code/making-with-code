@@ -137,7 +137,7 @@ The project is scored out of 15.
 
 ## [3] Deliverables
 
-{{< deliverables  "Projects are due on Wednesday, 02 March." >}}
+{{< deliverables   >}}
 
 - A `Unit 02 Games Project: Planning Document` 
 - A `project-game-story` repository will include some if not all the following files:

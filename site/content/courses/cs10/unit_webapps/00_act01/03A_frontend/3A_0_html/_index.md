@@ -74,6 +74,8 @@ cd cs10_webapp_frontend-YOUR-GITHUB-USERNAME
 pip3 install -r requirements.txt
 ```
 
+
+
 After you have installed the requirements, you can migrate your data and start the server by typing the following in Terminal:
 
 ```shell

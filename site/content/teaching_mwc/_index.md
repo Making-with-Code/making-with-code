@@ -1,7 +1,6 @@
 ---
 title: Teaching MwC
-weight: 30
-
+weight: 20
 bookCollapseSection: true
 
 ---

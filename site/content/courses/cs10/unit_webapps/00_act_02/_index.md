@@ -40,7 +40,7 @@ For this project, you will use a Miro board to design the frontend and backend o
 
 0. Click on `cs10 Web Apps Design Doc` in the top left corner 
 0. Click `Duplicate`
-0. Share it with your teammate, Ms. Brown *(eqbrown@isf.edu.hk)*, and Ms. Genzlinger *(bgenzlinger@isf.edu.hk)*
+0. Share it with your teammates and teachers.
 
 🖌 **You and your teammate must work together to plan the frontend and backend of your social computing web app.**
 - For the frontend, 
@@ -118,7 +118,7 @@ The project is scored out of 7.
 
 ## [4] Deliverables
 
-{{< deliverables  "Milestone 1 is due on Thursday, 20 April." >}}
+{{< deliverables  >}}
 
 - A Miro Board with your Web App design specifications
 - A Google Slides presentation 

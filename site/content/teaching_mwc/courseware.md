@@ -11,9 +11,8 @@ weight: 40
 
 Throughout the development of *Making with Code* we have developed proprietary to fit the needs of the currciulum.
 
-The repo of courseware can be found at [github.com/Making-with-Code/courseware](https://github.com/Making-with-Code/courseware). 
+🌐 **The repo of courseware can be found at [github.com/Making-with-Code/courseware](https://github.com/Making-with-Code/courseware).**
 
-It is regularly updated and we are more than open to feedback.
 
 <!-- ---
 
