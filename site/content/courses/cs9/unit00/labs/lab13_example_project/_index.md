@@ -1,6 +1,6 @@
 ---
 title: 13. Project Example
-# draft: true
+draft: true
 ---
 
 # Animation I Lab

@@ -15,7 +15,7 @@ Here are a few examples from last year to get you started. More can be found at 
 
 {{< figure src="images/courses/cs9/unit00/00_project_2021_edwin.gif" width="75%" title="by Edwin" >}}
 <--->
-{{< figure src="images/courses/cs9/unit00/00_project_2021_charlotte.gif" width="75%" title="by Charlotte" >}}
+{{< figure src="images/courses/cs9/unit00/project_alex.gif" width="75%" title="by Alex" >}}
 {{< /columns >}}
 
 
@@ -65,13 +65,39 @@ It contains the following files:
 
 ---
 
+### Superturtle
+
+{{< aside "Animating with Superturtle" >}}  
+You will be using superturtle to create your animation. Check out the documetation for examples of how to use it!
+
+
+[📖 **Superturtle Animation**](https://superturtle.readthedocs.io/en/latest/animation.html) lets you:
+
+- Rotate
+- Scale
+- Translate
+- Interpolate
+
+
+[📖 **Superturtle Movement**](https://superturtle.readthedocs.io/en/latest/movement.html) lets you:
+- Fly
+- Update Position
+- *...and more...*
+
+Feel free to use **any** of the superturtle modules in your project!
+
+{{< /aside >}}
+
+---
+
+
 ## [3] Criteria
 
 {{< columns >}}
 
 {{< figure src="images/courses/cs9/unit00/00_project_2020_eric.gif" width="75%" title="by Eric" >}}
 <--->
-{{< figure src="images/courses/cs9/unit00/00_project_2020_austin.gif" width="75%" title="by Austin" >}}
+{{< figure src="images/courses/cs9/unit00/project_owen.gif" width="75%" title="by Owen" >}}
 {{< /columns >}}
 
 **This project will be assessed on the following criteria:**
@@ -118,18 +144,6 @@ Successful computer scientists should be able to make the following claims:
 
 *Keep the success claims in mind when coding your project.*
 
----
-
-### [Scoring]
-
-The project is scored out of 7. It will be calculated by adding the score from each criteria, then referencing the bands:
-- 1 = 0
-- 2 = 1
-- 3 = 2-3
-- 4 = 4-6
-- 5 = 7-11
-- 6 = 12-13
-- 7 = 14-15
 
 ---
 

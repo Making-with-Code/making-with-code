@@ -1,6 +1,6 @@
 ---
 title: 12. Ball Animation
-# draft: true
+draft: true
 ---
 
 # Ball Animation Lab

@@ -1,6 +1,6 @@
 ---
 title: 11. Animation 101
-# draft: true
+draft: true
 ---
 
 # Animation I Lab
