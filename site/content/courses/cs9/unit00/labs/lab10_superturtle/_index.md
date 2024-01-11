@@ -116,7 +116,7 @@ code .
 
 
 
-{{< code-action  >}} ✏️ **Follow along with the worksheet for each file.** This will require you to run and edit code. 
+{{< code-action  >}} ✏️ **Follow along with the worksheet for each Python file:** [worksheet link](https://docs.google.com/document/d/1w1VgrwEfzv5jDT17TOS62p1wtG71wJNdJJAw47zbolQ/edit?usp=sharing). This will require you to run and edit code.
 
 
 ---
